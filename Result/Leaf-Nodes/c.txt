@@ -1,0 +1,3084 @@
+0.0 Network games
+
+0.0 Market equilibria
+
+0.0 Algorithmic game theory
+
+0.0 Virtual University Enterprises
+
+0.0 World Wide Web Consortium
+
+0.0 SANS Institute
+
+0.0 Systems Research Center
+
+0.0 Sandia National Laboratories
+
+0.0 Test Technology Technical Council
+
+0.0 Built-in self-test
+
+0.0 Test data compression
+
+0.0 Computational control theory
+
+0.0 Theory of mind
+
+0.0 Deep belief networks
+
+0.0 Q-learning
+
+0.0 Value iteration
+
+0.0555555555556 Transistor-level synthesis
+
+0.0 Technology-mapping
+
+0.0 Sequential synthesis
+
+0.0 Circuit optimization
+
+0.0 Combinational synthesis
+
+0.0 Packaging
+
+0.0 Clock-network synthesis
+
+0.0 Probabilistic computation
+
+0.0 Discretization
+
+0.0 Los Alamos National Laboratory
+
+0.0 Internet governance / domain names
+
+0.0 Industry statistics
+
+0.0 Computer manufacturing
+
+0.0 Copyrights
+
+0.0 Software reverse engineering
+
+0.0 Patents
+
+0.0 Trademarks
+
+0.0 Distributed storage
+
+0.0 Information system economics
+
+0.0 Storage recovery strategies
+
+0.0 Quality assurance
+
+0.0 Network operations
+
+0.0 File systems management
+
+0.0 Software verification
+
+0.0 Star networks
+
+0.0 Bus networks
+
+0.0 Point-to-point networks
+
+0.0 Cognitive radios
+
+0.0 Token ring networks
+
+0.0 Data warehouses
+
+0.0 Expert systems
+
+0.0 Data analytics
+
+0.0 Process control systems
+
+0.0 Digital signal processing
+
+0.0 Beamforming
+
+0.0 Wide area networks
+
+0.0 Local area networks
+
+0.0 Metropolitan area networks
+
+0.0 Short-range networks
+
+0.0 Network experimentation
+
+0.0 Network performance modeling
+
+0.0 Network simulations
+
+0.0 Network flows
+
+0.0 Extremal graph theory
+
+0.0 Graph enumeration
+
+0.0 Matchings and factors
+
+0.0 Graphs and surfaces
+
+0.0 Numeric approximation algorithms
+
+0.0 Game tree search
+
+0.0 Retrieval effectiveness
+
+0.0 Cognitive science
+
+0.0 MapReduce algorithms
+
+0.0 Allen Newell
+
+0.0 Motion path planning
+
+0.0 A. van Wijngaarden
+
+0.0 Alan Cooper
+
+0.0 Alan Mathison Turing
+
+0.0 Alan J. Perlis
+
+0.0 Allen Kent
+
+0.0 Multi-chip modules
+
+0.0 Rare-event simulation
+
+0.0 Quantum mechanic simulation
+
+0.0 Molecular simulation
+
+0.0 Distributed simulation
+
+0.0 Continuous simulation
+
+0.0 Discrete-event simulation
+
+0.0 Agent / discrete models
+
+0.0 Cognitive robotics
+
+0.0 Continuous models
+
+0.0 Real-time simulation
+
+0.0 Reusable energy storage
+
+0.0 Batteries
+
+0.0 Printers
+
+0.0 External storage
+
+0.0 Networking hardware
+
+0.0 PowerPC
+
+0.0 Pentium
+
+0.0 PDF
+
+0.0 Outlook
+
+0.0 OpenMP
+
+0.0 NetWare
+
+0.0 MySQL
+
+0.0 James Gosling
+
+0.047619047619 Gordon Bell
+
+0.0 Stefan Banach
+
+0.0 Marian Smoluchowski
+
+0.0714285714286 Peter J. Denning
+
+0.0 Mark D. Weiser
+
+0.0 Linus Torvalds
+
+0.0 John McCarthy
+
+0.0 Social navigation
+
+0.0 Participatory design
+
+0.0 Empirical studies
+
+0.0 Peter Norton
+
+0.0 Assertion checking
+
+0.0 Inconsistent data
+
+0.0 Measurement
+
+0.0 Graph algorithms
+
+0.0 Divide and conquer
+
+0.0 QuickTime
+
+0.0 QuarkXPress
+
+0.0 Maximum likelihood modeling
+
+0.0 Simulink
+
+0.0 Object recognition
+
+0.0 Maximum entropy modeling
+
+0.0 Data scans
+
+0.0 Shared memory algorithms
+
+0.0 Distributed programming languages
+
+0.0 Massively parallel algorithms
+
+0.0 Parallel programming languages
+
+0.0 Structured Query Language
+
+0.0 Technology audits
+
+0.0 Centralization / decentralization
+
+0.0 Computing equipment management
+
+0.0 Software maintenance
+
+0.0 Supply chain management
+
+0.0 Massively multiplayer online games
+
+0.0 Multimedia content creation
+
+0.0 Multimedia streaming
+
+0.0 Hypertext / hypermedia
+
+0.0 Multimedia databases
+
+0.0 Noise reduction
+
+0.0 Network manageability
+
+0.0 Network dynamics
+
+0.0 Network mobility
+
+0.0 Logical / virtual topologies
+
+0.0 Physical topologies
+
+0.0 Decision diagrams
+
+0.0 Factor graphs
+
+0.0 Markov networks
+
+0.0 Bayesian networks
+
+0.0 Stochastic differential equations
+
+0.0 Causal networks
+
+0.0 Equational models
+
+0.0 Spline models
+
+0.0 Kernel density estimators
+
+0.0 Privacy policies
+
+0.0 Identity theft
+
+0.0 Secondary liability
+
+0.0 Database protection laws
+
+0.0 Treaties
+
+0.0 Licensing
+
+0.0 Biometrics
+
+0.0 National Science Foundation
+
+0.0 Oak Ridge National Laboratory
+
+0.0 Secondary storage organization
+
+0.0 Electromagnetic interference and compatibility
+
+0.0 Lawrence Livermore National Laboratory
+
+0.0 Office
+
+0.0 London Mathematical Society
+
+0.0 Max Planck Institutes
+
+0.0 VHDL
+
+0.0 Skype
+
+0.0 National Institute of Standards and Technology
+
+0.0 Word processors
+
+0.0 Spreadsheets
+
+0.0 Defense Advanced Research Projects Agency
+
+0.0 Dell Computer Corporation
+
+0.0 Citrix Systems, Inc.
+
+0.0 Commerce One
+
+0.0588235294118 Compaq Computer Corporation
+
+0.0 Ambient intelligence
+
+0.0 Mobile computing
+
+0.0 Ubiquitous computing
+
+0.0 Tablet computers
+
+0.0 E-book readers
+
+0.0 Handheld game consoles
+
+0.0 Personal digital assistants
+
+0.0 Laboratory experiments
+
+0.0 Hardware reverse engineering
+
+0.0 File system security
+
+0.0 Virtual worlds training simulations
+
+0.0 Public key encryption
+
+0.0 Separation logic
+
+0.0 Fault-tolerant network topologies
+
+0.0 Type theory
+
+0.0 Hoare logic
+
+0.0 Penetration testing
+
+0.0 Vulnerability scanners
+
+0.0 Optimization algorithms
+
+0.0 Boolean algebra algorithms
+
+0.0 Representation of Boolean functions
+
+0.0 SharePoint
+
+0.0 Blizzard Entertainment
+
+0.0 BAE Systems
+
+0.0 Apple, Inc.
+
+0.0 AOL, Inc.
+
+0.0 Blue Sky Studios
+
+0.0 Barry W. Boehm
+
+0.0 Bill Gates
+
+0.0 Andrew S. Grove
+
+0.0 Safety critical systems
+
+0.0 Barbara Liskov
+
+0.0 Circuit hardening
+
+0.0 Bill Joy
+
+0.0 Modeling methodologies
+
+0.0 Uncertainty quantification
+
+0.0 Model verification and validation
+
+0.0 Systems theory
+
+0.0 Network science
+
+0.0 Linear programming
+
+0.0 Chemistry
+
+0.0 Document structure
+
+0.0 XPath
+
+0.0 XQuery
+
+0.0 Application servers
+
+0.0 Database web servers
+
+0.0 Data replication tools
+
+0.0 Distributed transaction monitors
+
+0.0 Data federation tools
+
+0.0 Message queues
+
+0.0 Service buses
+
+0.0 Proof theory
+
+0.0 Modal and temporal logics
+
+0.0 Model checking
+
+0.0 Constructive mathematics
+
+0.0 Description logics
+
+0.0 Automated reasoning
+
+0.0 Constraint and logic programming
+
+0.0 Equational logic and rewriting
+
+0.0 Finite Model Theory
+
+0.0 Hypergraphs
+
+0.0 Combinatorial optimization
+0.0 Gestural input
+
+0.0 Pointing
+
+0.0 User interface programming
+
+0.0 Collaborative interaction
+
+0.0 Field studies
+
+0.0 Text input
+
+0.0 Haptic devices
+
+0.0 Prolog
+
+0.0 Intranets
+
+0.0 Entity resolution
+
+0.0 PowerPoint
+
+0.0 Data dictionaries
+
+0.0 China Telecom Corporation Limited
+
+0.0 Data recovery
+
+0.0 Cadence Design Systems
+
+0.0 Computer-aided manufacturing
+
+0.0 Agriculture
+
+0.0 Command and control
+
+0.0 Forecasting
+
+0.0 Decision analysis
+
+0.0 Transportation
+
+0.0 Association for Computing Machinery
+
+0.0 Bjarne Stroustrup
+
+0.0 Bill Millard
+
+0.0 C. A. R. Hoare
+
+0.0 Bruce Schneier
+
+0.0 Statistical timing analysis
+
+0.0 Open Knowledge Society
+
+0.0 JISC
+
+0.0 ITU
+
+0.0 International Organization for Standardization
+
+0.0 Physical simulation
+
+0.0 Free Software Foundation
+
+0.0 Ray tracing
+
+0.0 Nanoelectromechanical systems
+
+0.0 Reflectance modeling
+
+0.0 Simulation evaluation
+
+0.0 Lawrence Berkeley National Laboratory
+
+0.0 Rasterization
+
+0.0 Computing Accreditation Commission
+
+0.0 Gmail
+
+0.0 Availability
+
+0.0 Maintainability and maintenance
+
+0.0 Federal Communications Commission
+
+0.0 Reliability
+
+0.0 Real-time system architecture
+
+0.0 CDMA systems
+
+0.0 DSM
+
+0.0 DSL
+
+0.0 Oracle Database
+
+0.0 Forrester Research
+
+0.0 Digital Equipment Corporation
+
+0.0 Microcomputers
+
+0.0 Computer games
+
+0.0 Ericsson
+
+0.0 EMC Corporation
+
+0.0 EIS, Inc.
+
+0.0 Regret bounds
+
+0.0 Interactive games
+
+0.0 Electronic blackboards
+
+0.0 Layered systems
+
+0.0 Simulator / interpreter
+
+0.0 Object oriented architectures
+
+0.0 Marketing
+
+0.0 Cisco Systems, Inc.
+
+0.0 Package-level interconnect
+
+0.0 Mesh models
+
+0.0 Graphics file formats
+
+0.0 Image compression
+
+0.0 Mixed / augmented reality
+
+0.0 Perception
+
+0.0 Graphics input devices
+
+0.0 Mesh geometry models
+
+0.0 Hybrid symbolic-numeric methods
+
+0.0 Discrete calculus algorithms
+
+0.0 Number theory algorithms
+
+0.0 Quantum query complexity
+
+0.0 Algebraic algorithms
+
+0.0 Nonalgebraic algorithms
+
+0.0 Symbolic calculus algorithms
+
+0.0 Exact arithmetic algorithms
+
+0.0 Linear algebra algorithms
+
+0.0 Theorem proving algorithms
+
+0.0 Hardware accelerators
+
+0.0 Charles Babbage
+
+0.0 Quadrature
+
+0.0 Procedural animation
+
+0.0 Emerging interfaces
+
+0.0 European Telecommunications Standards Institute
+
+0.0 Microelectromechanical systems
+
+0.0 Non-photorealistic rendering
+
+0.0 Superconducting circuits
+
+0.0 Data streaming
+
+0.0 Sensor networks
+0.0 Microelectromechanical systems
+
+0.0 Non-photorealistic rendering
+
+0.0 Superconducting circuits
+
+0.0 Data streaming
+
+0.0 Sensor networks
+
+0.0 Visibility
+
+0.0 Extranets
+
+0.0 Collaborative content creation
+
+0.0 Social content sharing
+
+0.0 Geographic information systems
+
+0.0 Carbon based electronics
+
+0.0 RESTful web services
+
+0.0 Wikis
+
+0.0 Mashups
+
+0.0 Browsers
+
+0.0 Indexed file organization
+
+0.0 B-trees
+
+0.0 Linked lists
+
+0.0 Inodes
+
+0.0 Vnodes
+
+0.0 Circuit complexity
+
+0.0 Communication complexity
+
+0.0 Algebraic complexity theory
+
+0.0 Proof complexity
+
+0.0 Quantum complexity theory
+
+0.0 Interactive proof systems
+
+0.0 Cryptographic protocols
+
+0.0 Cryptographic primitives
+
+0.0 Embedded software
+
+0.0 Firmware
+
+0.0 System on a chip
+
+0.0 Embedded hardware
+
+0.0555555555556 Backup procedures
+
+0.0 Synchronization
+
+0.0 Monitors
+
+0.0 Concurrency control
+
+0.0 Mutual exclusion
+
+0.0 Power management
+
+0.0 Input / output
+
+0.0 Buffering
+
+0.0 Message passing
+
+0.0 Langley Research Center
+
+0.0 Social media
+
+0.0 Ethnographic studies
+
+0.0 Synchronous editors
+
+0.0 Asynchronous editors
+
+0.0 Graphical / visual passwords
+
+0.0 Multi-factor authentication
+
+0.0 Firewalls
+
+0.0 Denial-of-service attacks
+
+0.0 Spoofing attacks
+
+0.0 Phishing
+
+0.0 Windows
+
+0.0 Image-based rendering
+
+0.0 Texturing
+
+0.0 Antialiasing
+
+0.0 Collision detection
+
+0.0 Motion processing
+
+0.0 Image processing
+
+0.0 Graphics processors
+
+0.0 Data conversion
+
+0.0 Program specifications
+
+0.0 High-speed input / output
+
+0.0 Object Management Group
+
+0.0555555555556 Wireline communication
+
+0.0 ANSI C
+
+0.0 Business Process Execution Language
+
+0.0 Real-time languages
+
+0.0 Real-time system specification
+
+0.0 Real-time operating systems
+
+0.0 Nonconvex optimization
+
+0.0 Document searching
+
+0.0 Hypertext languages
+
+0.0 Ontologies
+
+0.0 Interactive learning environments
+
+0.0 Thesauri
+
+0.0 Learning management systems
+
+0.0 Collaborative learning
+
+0.0 E-learning
+
+0.0 Distance learning
+
+0.0 Computer-managed instruction
+
+0.0 Static timing analysis
+
+0.0 Compact delay models
+
+0.0 Optical character recognition
+
+0.0 Gary McGraw
+
+0.0 Georg Scheutz
+
+0.0 Placement
+
+0.0 Power grid design
+
+0.0 Physical synthesis
+
+0.0 Clive Sinclair
+
+0.0 Wire routing
+
+0.0 Model-order reduction
+
+0.0 Claude Elwood Shannon
+
+0.0 VRML
+
+0.0 Simulation tools
+
+0.0 Wikipedia
+
+0.0 Physical data models
+
+0.0 Visual Basic
+
+0.0 VMware
+
+0.0 VoiceXML
+
+0.0 Single electron devices
+
+0.0 Multiscale systems
+
+0.0 Tunneling devices
+
+0.0 Reversible logic
+
+0.0 Visual analytics
+
+0.0 Plasmonics
+
+0.0 Text editing
+
+0.0 Interface definition languages
+
+0.0 Dynamic graph algorithms
+
+0.0 Shortest paths
+
+0.0 Predecessor queries
+
+0.0 Sorting and searching
+
+0.0 Pattern matching
+
+0.0 Specialized application languages
+
+0.0 Branch-and-bound
+
+0.0 Rank aggregation
+
+0.0 Query reformulation
+
+0.0 User models
+
+0.0 Task models
+
+0.0 User studies
+
+0.0 Search interfaces
+
+0.0 Collaborative search
+
+0.0 Transaction logging
+
+0.0 Database recovery
+
+0.0 Query planning
+
+0.0 Join algorithms
+
+0.0 Data locking
+
+0.0 Variable length attributes
+
+0.0 SQL Server
+
+0.0 Data center networks
+
+0.0 Wired access networks
+
+0.0 Mobile networks
+
+0.0 Peer-to-peer networks
+
+0.0 Social media networks
+
+0.0 Information flow control
+
+0.0 Digital signatures
+
+0.0 Database activity monitoring
+
+0.0 Adolescents
+
+0.0 Recursive functions
+
+0.0 Database views
+
+0.0 Integrity checking
+
+0.0 Turing machines
+
+0.0 Abstract data types
+
+0.0 Software engineering education
+
+0.0 Data streams
+
+0.0 Interactive computation
+
+0.0 Queueing theory
+
+0.0 Simulated annealing
+
+0.0 Sequential Monte Carlo methods
+
+0.0 Bootstrapping
+
+0.0 Jackknifing
+
+0.0 Random number generation
+
+0.0 Assertions
+
+0.0 Agilent Technologies
+
+0.0 Advanced Information Systems
+
+0.0 Macromedia
+
+0.0 Adobe Systems Incorporated
+
+0.0 Accenture
+
+0.0 Privacy protections
+
+0.0 John Vincent Atanasoff
+
+0.0625 J. Presper Eckert
+
+0.0555555555556 Herman Hollerith
+
+0.0833333333333 Jay Wright Forrester
+
+0.0 J. H. Wilkinson
+
+0.0 H. D. Goode
+
+0.0 Grace Murray Hopper
+
+0.0 Herbert R. J. Grosch
+
+0.0 Herbert A. Simon
+
+0.0 XILINX
+
+0.0 X3D
+
+0.0 X-Window
+
+0.0 WordNet
+
+0.0 HP Labs
+
+0.0 Bell Labs
+
+0.0 ZigBee
+
+0.0 YouTube
+
+0.0 Uncertainty
+
+0.0 Global positioning systems
+
+0.0 FreeBSD
+
+0.0 Call level interfaces
+
+0.0 MapReduce languages
+
+0.0 Spectra of graphs
+
+0.0 Sensors and actuators
+
+0.0 Quantum computing
+
+0.0 Robotic components
+
+0.0 Robotic control
+
+0.0 Robotic autonomy
+
+0.0 Accessibility technologies
+
+0.0 Visualization toolkits
+
+0.0 Concurrent algorithms
+
+0.0 Continuous functions
+
+0.0 Multithreading
+
+0.0 Multiprocessing / multiprogramming / multitasking
+
+0.0 Garbage collection
+
+0.0 Distributed memory
+
+0.0 Secondary storage
+
+0.0 Virtual memory
+
+0.0 Main memory
+
+0.0 Extraction, transformation and loading
+
+0.0 Semidefinite programming
+
+0.0 Convex optimization
+
+0.0 Integer programming
+
+0.0 Maximum likelihood estimation
+
+0.0 Classification and regression trees
+
+0.0 Bayesian nonparametric models
+
+0.0 3D integrated circuits
+
+0.0 Input / output circuits
+
+0.0 Metallic interconnect
+
+0.0 Dynamic memory
+
+0.0 Static memory
+
+0.0 Moving Picture Experts Group
+
+0.0 Layout-versus-schematics
+
+0.0 Power and thermal analysis
+
+0.0 Abstract machines
+
+0.0 Finite state machines
+
+0.0 Sequential circuits
+
+0.117647058824 Ada Lovelace
+
+0.0 Taiwan Semiconductor Manufacturing Company, Limited
+
+0.0 Geometric topology
+
+0.0 Algebraic topology
+0.0 Autonomous database administration
+
+0.0 Point-set topology
+
+0.0 Database performance evaluation
+
+0.0 Data cleaning
+
+0.0 Mesh generation
+
+0.0 Automatic differentiation
+
+0.0 Query intent
+
+0.0 Query representation
+
+0.0 Document collection models
+0.0 Document topic models
+
+0.0 Avionics
+
+0.0 Query suggestion
+
+0.0 Query log analysis
+
+0.0 Cluster analysis
+
+0.0 Dimensionality reduction
+
+0.0 Renewal theory
+
+0.0 Survival analysis
+
+0.0 Time series analysis
+
+0.0 Robust regression
+
+0.0 Contingency table analysis
+
+0.0 Exploratory data analysis
+
+0.0 Statistical graphics
+
+0.0 Compression strategies
+
+0.0 Vertical partitioning
+
+0.0 Horizontal partitioning
+
+0.0 Cellular architectures
+
+0.0 Design languages
+
+0.0 Extensible languages
+
+0.0 Data flow languages
+
+0.0 Domain specific languages
+
+0.0 Concurrent programming languages
+
+0.0 Functional languages
+
+0.0 Imperative languages
+
+0.0 Object oriented languages
+
+0.0 Side-channel analysis and countermeasures
+
+0.0 Wireframes
+
+0.0 Network measurement
+
+0.0 Packet-switching networks
+
+0.0 Consumer products policy
+
+0.0 JSP
+
+0.0 LAPACK
+
+0.0 JPEG
+
+0.0 Macintosh OS
+
+0.0 Macintosh
+
+0.0 Linux
+
+0.0 Lotus Notes
+
+0.0 Interpreters
+
+0.0 Embedded middleware
+
+0.0 Reflective middleware
+
+0.0 Message oriented middleware
+
+0.0 Storage area networks
+
+0.0 Home networks
+
+0.0 Network on chip
+
+0.0 Network monitoring
+
+0.0 Network management
+
+0.0 Programmable networks
+
+0.0 Location based services
+
+0.0 Cloud computing
+
+0.0 SAS Institute, Inc.
+
+0.25 Sega Corporation
+
+0.0 RSA
+
+0.0 Pixar Animation Studios
+
+0.0 Siemens AG
+
+0.0 Silicon Graphics, Inc.
+
+0.0 Incremental compilers
+
+0.0 Combinational circuits
+
+0.0 Asynchronous circuits
+
+0.0 Logic families
+
+0.0 Transistors
+
+0.0 Read-only memory
+
+0.0 Non-volatile memory
+
+0.0 Equivalence checking
+
+0.0 Coverage metrics
+
+0.0 Transaction-level verification
+
+0.0 Simulation and emulation
+
+0.0 Semi-formal verification
+
+0.0 Design rule checking
+
+0.0 Contextual design
+
+0.0 Metrics
+
+0.0 BASIC
+
+0.0 Data flow architectures
+
+0.0 Analog computers
+
+0.0 Reconfigurable computing
+
+0.0 Grid computing
+
+0.0 Bluetooth
+
+0.0 AppleScript
+
+0.0 Optical computing
+
+0.0 Self-organizing autonomic computing
+
+0.0 Key-value stores
+
+0.0 Distributed database recovery
+
+0.0 Deadlocks
+
+0.0 Distributed data locking
+
+0.0 Proximity search
+
+0.0 Photoshop
+
+0.0 Authorization
+
+0.0 Ajax
+
+0.0 Transcriptomics
+
+0.0 Ethnography
+
+0.0 Entity relationship modeling
+
+0.0 State systems
+
+0.0 Cell Broadband Engine
+
+0.0 CMOS
+
+0.0 Adversary models
+
+0.0 K-server algorithms
+
+0.0 Fixed parameter tractability
+
+0.0 W hierarchy
+
+0.0 MATLAB
+
+0.0 R. Milner
+
+0.0 Documentation
+
+0.0 Multi-agent planning
+
+0.0 Online auctions
+
+0.0 Open source software
+
+0.0 Voting / election technologies
+
+0.0 Import / export controls
+
+0.0 Remote replication
+
+0.0 Direct attached storage
+
+0.0 Network attached storage
+
+0.0 JavaScript
+
+0.0 Virtual machines
+
+0.0 Automata over infinite objects
+
+0.0 Tree languages
+
+0.0 Transducers
+
+0.0 Quantitative automata
+
+0.0 Regular languages
+
+0.0 Complexity classes
+
+0.0 Mathematica
+
+0.0 Information extraction
+
+0.0 Sentiment analysis
+
+0.0 Recommender systems
+
+0.0 Clustering and classification
+
+0.0 Summarization
+
+0.0 Expert search
+
+0.0 Quadratic programming
+
+0.0 Experimentation
+
+0.0 Evaluation
+
+0.0 Estimation
+
+0.0 Programming teams
+
+0.0 Network optimization
+
+0.0 Socio-technical systems
+
+0.0 Ultra-large-scale systems
+
+0.0 Functionality
+
+0.0 Consistency
+
+0.0 Completeness
+
+0.0 Consumer health
+
+0.0 Health care information systems
+
+0.0 Mathematics and statistics
+
+0.0 Computer-aided design
+
+0.0 Physics
+
+0.0 Quantum information theory
+
+0.0 Multiple instruction, single data
+
+0.0 Interconnection architectures
+
+0.0 Multiple instruction, multiple data
+
+0.0 Multicore architectures
+
+0.0 Single instruction, multiple data
+
+0.0 Systolic arrays
+
+0.0 Client-server architectures
+
+0.0555555555556 n-tier architectures
+
+0.0 Stream management
+
+0.0 Online analytical processing
+
+0.0 Main memory engines
+
+0.0 Deep web
+
+0.0 Surfacing
+
+0.0 Data exchange
+
+0.0 Embedded systems security
+
+0.0 Mobile platform security
+
+0.0 Trusted computing
+
+0.0 Software reliability
+
+0.0 Quantum communication complexity
+
+0.0 Automated static analysis
+
+0.0 Software performance
+
+0.0 Business intelligence
+
+0.0 Electro-mechanical devices
+
+0.0 Special purpose systems
+
+0.0 Reconfigurable logic applications
+
+0.0 Switching devices power issues
+
+0.0 Google Scholar
+
+0.0 Google Maps
+
+0.0 HDTV
+
+0.0 GSM
+
+0.0 InfiniBand
+
+0.0 HP-UX
+
+0.0 iPod
+
+0.0 iPhone
+
+0.0 IPv6
+
+0.0 IPTV
+
+0.0 Cost-sensitive learning
+
+0.0 Mixture modeling
+
+0.0 Structured outputs
+
+0.0 Topic modeling
+
+0.0 Source separation
+
+0.0 Error-correcting codes
+
+0.0 Nearest neighbor algorithms
+
+0.0 Pseudorandomness and derandomization
+
+0.0 Computational geometry
+
+0.0 Random network models
+
+0.0 Wireless local area networks
+
+0.0 Network servers
+
+0.0 Novell, Inc.
+
+0.0 Sun Microsystems
+
+0.0 Oracle Corporation
+
+0.0 National Instruments Corporation
+
+0.0 National Academy of Sciences
+
+0.0 Nortel Networks Corporation
+
+0.0 National Research Council
+
+0.0 NXP Semiconductors
+
+0.0 Philips Semiconductors
+
+0.0 Energy metering
+
+0.0 Probabilistic reasoning
+
+0.0 Vagueness and fuzzy logic
+
+0.0 Temporal reasoning
+
+0.0 Renewable energy
+
+0.0 Ontology engineering
+
+0.0 Logic programming and answer set programming
+
+0.0 Semi-supervised learning
+
+0.0 Online learning settings
+
+0.0 Active learning
+
+0.0 Batch learning
+
+0.0 Health information exchanges
+
+0.0 Information-theoretic techniques
+
+0.0 Mathematical foundations of cryptography
+
+0.0 Trust frameworks
+
+0.0 Key management
+
+0.0 Security requirements
+
+0.0 Formal security models
+
+0.0 Approximation
+
+0.0 Windows environment
+
+0.0 Rewrite systems
+
+0.0 Algebraic language theory
+
+0.0 Timed and hybrid models
+
+0.0 Process calculi
+
+0.0 Distributed computing models
+
+0.0 Parallel computing models
+
+0.0 Streaming models
+
+0.0 Language models
+
+0.0 Probabilistic retrieval models
+
+0.0 Learning to rank
+
+0.0 Similarity measures
+
+0.0 Document filtering
+
+0.0 Question answering
+
+0.0 Computing occupations
+
+0.0 Funding
+
+0.0 Assistive technologies
+
+0.0 Computing organizations
+
+0.0 Governmental regulations
+
+0.0 Discrete space search
+
+0.0 Planning under uncertainty
+
+0.0 Security protocols
+
+0.0 Web protocol security
+
+0.0 Browser security
+
+0.0 Distributed systems security
+
+0.0 Frameworks
+
+0.0 Modules / packages
+
+0.0 Constraints
+
+0.0 Recursion
+
+0.0 Concurrent programming structures
+
+0.0 Patterns
+
+0.0 Coroutines
+
+0.0 Quantum error correction and fault tolerance
+
+0.0 Quantum communication and cryptography
+
+0.0 Interconnect power issues
+
+0.0 Circuits power issues
+
+0.0 Chip-level power issues
+
+0.0 RAID
+
+0.0 Tape libraries
+
+0.0 Mirroring
+
+0.0 Internet Corporation for Assigned Names and Numbers
+
+0.0 Iona Technologies
+
+0.0909090909091 ITSS, Inc.
+
+0.0 Juniper Networks
+
+0.0 Lockheed Martin Corporation
+
+0.0 Microsoft Corporation
+
+0.0 Temperature monitoring
+
+0.0 Power networks
+
+0.0 Power conversion
+
+0.0 Smart grid
+
+0.0 Statistical relational learning
+
+0.0 Inductive logic learning
+
+0.0 Gaussian processes
+
+0.0 Support vector machines
+
+0.0 Neural networks
+
+0.0 Fault tree analysis
+
+0.0 Walkthroughs
+
+0.0 AutoCAD
+
+0.0 Psychology
+
+0.0 Law
+
+0.0 ActiveX
+
+0.0 Ada language
+
+0.0 Massively parallel systems
+
+0.0 Feature interaction
+
+0.0 Model-driven software engineering
+
+0.0 Bioinformatics
+
+0.0 Petri nets
+
+0.0 Metabolomics / metabonomics
+
+0.0 OFDM System
+
+0.0 Reduced instruction set computing
+
+0.0 Superscalar architectures
+
+0.0 Complex instruction set computing
+
+0.0 Stack machines
+
+0.0 Pipeline computing
+
+0.0 Very long instruction word
+
+0.0 IP Multimedia Subsystem
+
+0.0 Haskell
+
+0.0 JAVA ME
+
+0.0 MIMO Systems
+
+0.0 Novell, Inc
+
+0.0 Adversarial retrieval
+
+0.0 Heuristic evaluations
+
+0.0 Usability testing
+
+0.0 Walkthrough evaluations
+
+0.0 User centered design
+
+0.0 User interface design
+
+0.0 Multi-agent reinforcement learning
+
+0.0 Apprenticeship learning
+
+0.0 Transfer learning
+
+0.0 Adversarial learning
+
+0.0 Motif discovery
+
+0.0 Inverse reinforcement learning
+
+0.0 Sequential decision making
+
+0.0 Learning under covariate shift
+
+0.0 Lifelong machine learning
+
+0.0 Boolean function learning
+
+0.0 Bayesian analysis
+
+0.0 Boosting
+
+0.0 Unsupervised learning and clustering
+
+0.0 Online learning theory
+
+0.0 Inductive inference
+
+0.0 Language resources
+
+0.0 Phonology / morphology
+
+0.0 Lexical semantics
+
+0.0 Speech recognition
+
+0.0 Natural language generation
+
+0.0 Machine translation
+
+0.0 Semantic networks
+
+0.0 Transport Layer Security
+
+0.0 Toshiba Corporation
+
+0.0 Texas Instruments Inc.
+
+0.0 Software Engineering Institute
+
+0.0 Solaris
+
+0.0 Financial crime
+
+0.0 Offshoring
+
+0.0 Reengineering
+
+0.0 Computer supported cooperative work
+
+0.0 Economic impact
+
+0.0 Virage Logic
+
+0.0 Bagging
+
+0.0 UMTS
+
+0.0 Scientific visualization
+
+0.0 Access control
+
+0.0 Digital rights management
+
+0.0 Privacy-preserving protocols
+
+0.0 Intrusion detection systems
+
+0.0 Enterprise modeling
+
+0.0 Computational genomics
+
+0.0 Desktop search
+
+0.0 Digital libraries and archives
+
+0.0 Enterprise search
+
+0.0 Music retrieval
+
+0.0 Enterprise architecture modeling
+
+0.0 Eclipse
+
+0.0 Query operators
+
+0.0 Federated databases
+
+0.0 Combinatoric problems
+
+0.0 Magnetic disks
+
+0.0 Magnetic tapes
+
+0.0 Optical / magneto-optical disks
+
+0.0 Children
+
+0.0 Disk arrays
+
+0.0 Combinatorial algorithms
+
+0.0 Generating functions
+
+0.0 Approximation algorithms
+
+0.0 Governmental surveillance
+
+0.0 Corporate surveillance
+
+0.0 Hate speech
+
+0.0 Political speech
+
+0.0 Pornography
+
+0.0 Censoring filters
+
+0.0 Coding theory
+
+0.0 Scheduling algorithms
+
+0.0 Programming logic
+
+0.0 Social tagging
+
+0.0 Higher order logic
+
+0.0 Linear logic
+
+0.0 Runtime environments
+
+0.0 Software evolution
+
+0.0 John R. Pasta
+
+0.0 Traceability
+
+0.0 Vannevar Bush
+
+0.0 Tightly coupled architectures
+
+0.0 Harry H. Goode
+
+0.0 Software safety
+
+0.0 Economics
+
+0.0 Sociology
+
+0.0 Abstraction
+
+0.0 Surveillance mechanisms
+
+0.0 Investigation techniques
+
+0.0 Network forensics
+
+0.0 System forensics
+
+0.0 Control structures
+
+0.0 Inheritance
+
+0.0 Polymorphism
+
+0.0 Temporal data
+
+0.0 Social networking sites
+
+0.0 Multiparadigm languages
+
+0.0 Assembly languages
+
+0.0 Image composition
+
+0.0 Scripting languages
+
+0.0 Classes and objects
+
+0.0 Annotation
+
+0.0 TREC
+
+0.0 CS1
+
+0.0 Unicode
+
+0.0 TMS320C
+
+0.0 Auditory feedback
+
+0.0 SELinux
+
+0.0 Pocket PC
+
+0.0 Graphical user interfaces
+
+0.0 Virtual reality
+
+0.0 Command line interfaces
+0.0 Software security engineering
+
+0.0 Web application security
+
+0.0 National Institutes of Health
+
+0.0 Data integration
+
+0.0 Online social networks
+
+0.0 iPad
+
+0.0 Logic and databases
+
+0.0 Image representations
+
+0.0 Shape representations
+
+0.0 Hierarchical representations
+
+0.0 Image segmentation
+
+0.0 Video segmentation
+
+0.0 Shape inference
+
+0.0 Molecular evolution
+
+0.0 Molecular sequence analysis
+
+0.0 Structured prediction
+
+0.0 Multi-agent learning
+
+0.0 Models of learning
+
+0.0 Soft intellectual property
+
+0.0 Application specific integrated circuits
+
+0.0 Application specific instruction set processors
+
+0.0 Application specific processors
+
+0.0 Platform-based design
+
+0.0 Design rules
+
+0.0 Intel Corporation
+
+0.0 Infusion
+
+0.0 Infineon Technologies
+
+0.0 Google Inc.
+
+0.0 General Electric
+
+0.0 General Dynamics
+
+0.0 Gartner Group
+
+0.0 Geographic visualization
+
+0.0 User interface management systems
+
+0.0 Scenario-based design
+
+0.0 Treemaps
+
+0.0 Myspace
+
+0.0 Permutations and combinations
+
+0.0 Sony Corporation
+
+0.0 Data provenance
+
+0.0 Hardware selection
+
+0.0 Project staffing
+
+0.0 Project management techniques
+
+0.0 Systems analysis and design
+
+0.0 Systems planning
+
+0.0 Systems development
+
+0.0 Statistical software
+
+0.0 Markov processes
+
+0.0 Distribution functions
+
+0.0 Nonparametric statistics
+
+0.0 Multivariate statistics
+
+0.0 Solvers
+
+0.0 Distributed retrieval
+
+0.0 Retrieval efficiency
+
+0.0 Stochastic approximation
+
+0.0 Relevance assessment
+
+0.0 Test collections
+
+0.0 Search index compression
+
+0.0 Search engine indexing
+
+0.0 Rounding techniques
+
+0.0 Automation
+
+0.0 Employment issues
+
+0.0 Universal access
+
+0.0 Broadband access
+
+0.0 Net neutrality
+
+0.0 Programming interfaces
+
+0.0 Naming and addressing
+
+0.0 Layering
+
+0.0 Interface design prototyping
+
+0.0 Software version control
+
+0.0 Maintaining software
+
+0.0 System administration
+
+0.0 Specification languages
+
+0.0 Formal software verification
+
+0.0 Empirical software validation
+
+0.0 Public Internet
+
+0.0 Image search
+
+0.0 Mathematics retrieval
+
+0.0 Structured text search
+
+0.0 Trusted Computing Group
+
+0.0 Speech / audio search
+
+0.0 SLAC National Accelerator Laboratory
+
+0.0 Trees
+
+0.0 Combinatorics on words
+
+0.0 Enumeration
+
+0.0 Graph coloring
+
+0.0 Random graphs
+
+0.0 Program analysis
+
+0.0 Program verification
+
+0.0 Programmable logic elements
+
+0.0 Eclipse Foundation
+
+0.0 Electronic Frontier Foundation
+
+0.0 Parsing
+
+0.0 Computer Press Association
+
+0.0 Computer History Museum
+
+0.0 International Computer Music Association
+
+0.0 Computer Science Teachers Association
+
+0.0 Computing Research Association
+
+0.0 CSAB
+
+0.0 Smartphones
+
+0.0 Cladograms
+
+0.0 Mobile phones
+
+0.0 Interactive whiteboards
+
+0.0 Heat maps
+
+0.0 Hyperbolic trees
+
+0.0 Dendrograms
+
+0.0 Graph drawings
+
+0.0 Portable media players
+
+0.0 Mobile devices
+
+0.0 Publishing
+
+0.0 Media arts
+
+0.0 Language translation
+
+0.0 Performing arts
+
+0.0 Fine arts
+
+0.0 Cartography
+
+0.0 American Mathematical Society
+
+0.0 Excel
+
+0.0 CD-ROMs
+
+0.0 Facebook
+
+0.0 Internet Explorer
+
+0.0 Chrome
+
+0.0 Firefox
+
+0.0 Flickr
+
+0.0 Fortran
+
+0.0 Google Earth
+
+0.0 Google
+
+0.0 Graphical user interface languages
+
+0.0 Window managers
+
+0.0 Online handwriting recognition
+
+0.0 API languages
+
+0.0 Programming by example
+
+0.0 Command and control languages
+
+0.0 Macro languages
+
+0.0 Document metadata
+
+0.0 Version control
+
+0.0 Visual languages
+
+0.0 Document scanning
+
+0.0 Document analysis
+
+0.0 Rapid application development
+
+0.0 Pointing devices
+
+0.0 Keyboards
+
+0.0 Natural language interfaces
+
+0.0 Activity centered design
+
+0.0 Software prototyping
+
+0.0 Pacific Northwest National Laboratory
+
+0.0 PARC
+
+0.0 Active learning settings
+
+0.0 Operational Research Society
+
+0.0 Open Source Initiative
+
+0.0 Open Network Laboratory
+
+0.0 OSGi Alliance
+
+0.0 Active vision
+
+0.0 Matching
+
+0.0 Reconstruction
+
+0.0 Tracking
+
+0.0 Object identification
+
+0.0 Joint Photographic Experts Group
+
+0.0 Object detection
+
+0.0 Molecular structural biology
+
+0.0 Systems biology
+
+0.0 Population genetics
+
+0.0 Computational proteomics
+
+0.0 Imaging
+
+0.0 Biological networks
+
+0.0 Computational transcriptomics
+
+0.0 Full-custom circuits
+
+0.0 Standard cell libraries
+
+0.0 Consumer products
+
+0.0 Open source model
+
+0.0 Digital cash
+
+0.0 Electronic data interchange
+
+0.0 Electronic funds transfer
+
+0.0 Online shopping
+
+0.0 Online banking
+
+0.0 Secure online transactions
+
+0.0 Dictionaries
+
+0.0 Computer-assisted instruction
+
+0.0 Data compression
+
+0.0 Multidimensional range search
+
+0.0 Data encryption
+
+0.0 Cyberwarfare
+
+0.0 Edmund Callis Berkeley
+
+0.0 Medical records
+
+0.0 Personal health records
+
+0.0 Genetic information
+
+0.0 Patient privacy
+
+0.0 Remote medicine
+
+0.0 David Hilbert
+
+0.0 Differential calculus
+
+0.0 Integral calculus
+
+0.0 Donald Ervin Knuth
+
+0.0 Differential algebraic equations
+
+0.0 Differential variational inequalities
+
+0.0 Lambda calculus
+
+0.0 Integral equations
+
+0.0 Nonlinear equations
+
+0.0 Charles Tandy
+
+0.0 Electrical-level simulation
+
+0.0 Wifi
+
+0.0 Simulation languages
+
+0.0 UWB
+
+0.0 Network data models
+
+0.0 Self-organization
+
+0.0 Data assimilation
+
+0.0 Blaise Pascal
+
+0.0 Martin Fowler
+
+0.0 Interactive simulation
+
+0.0 Simulation environments
+
+0.0 Edvard Scheutz
+
+0.0 NVIDIA Corporation
+
+0.0 Ethernet
+
+0.0 Linux Professional Institute
+
+0.0 eBay Inc.
+
+0.0 DVDs
+
+0.0 Dreamweaver
+
+0.0 DOS
+
+0.0 DB2
+
+0.0 Datalog
+
+0.0 Corel Corporation
+
+0.0 CORBA
+
+0.0 Syntax
+
+0.0 Retargetable compilers
+
+0.0555555555556 Nokia Corporation
+
+0.0 Dynamic compilers
+
+0.0 Source code generation
+
+0.0555555555556 Preprocessors
+
+0.0 ActionScript
+
+0.0 Scene anomaly detection
+
+0.0 National Center for Education Statistics
+
+0.0 SONET
+
+0.0 Transport protocols
+
+0.0 Session protocols
+
+0.0 Protocol testing and verification
+
+0.0 Formal specifications
+
+0.0 Network protocol design
+
+0.0 Routing protocols
+
+0.0 Signaling protocols
+
+0.0 Link-layer protocols
+
+0.0 Access protection
+
+0.0 3-tier architectures
+
+0.0 Software usability
+
+0.0 Mathematical software performance
+
+0.0 Database interoperability
+
+0.0 Document scripting languages
+
+0.0 Parsers
+
+0.0 Very high level languages
+
+0.0 San Diego Supercomputer Center
+0.0 Semiconductor Industry Association
+
+0.0 Semantics
+
+0.0 Royal Statistical Society
+
+0.0 Mobile agents
+
+0.0 Cooperation and coordination
+
+0.0 Multi-agent systems
+
+0.0 Intelligent agents
+
+0.0 Scene understanding
+
+0.0 Data types and structures
+
+0.0 Sustainability
+
+0.0 Web-based interaction
+
+0.0 SIMD architectures
+
+0.0 Clay Mathematics Institute
+
+0.0 Ames Research Center
+
+0.0 American Statistical Association
+
+0.0526315789474 Apache Software Foundation
+
+0.0 American National Standards Institute
+
+0.0 Argonne National Laboratory
+
+0.0 British Computer Society
+
+0.0 Brazilian Computer Society
+
+0.0 Stochastic games
+
+0.0 Markov decision processes
+
+0.0 Partially-observable Markov decision processes
+
+0.0 Rule learning
+
+0.0 Instance-based learning
+
+0.0 Principal component analysis
+
+0.0 Canonical correlation analysis
+
+0.0 Non-negative matrix factorization
+
+0.0 Factor analysis
+
+0.0 Shape analysis
+
+0.0 Novelty in information retrieval
+
+0.0 Volumetric models
+
+0.0 Emerging simulation
+
+0.0 Bio-embedded electronics
+
+0.0 Neural systems
+
+0.0 Biographies
+
+0.0 General literature
+
+0.0 Reference works
+
+0.0 General conference proceedings
+
+0.0 Action semantics
+
+0.0 Categorical semantics
+
+0.0 Operational semantics
+
+0.0 Axiomatic semantics
+
+0.0 Algebraic semantics
+
+0.0 Denotational semantics
+
+0.0 Type structures
+
+0.0 Invariants
+
+0.0 Display advertising
+
+0.0 Jim Gray
+
+0.0 Taxation
+
+0.0 Codes of ethics
+
+0.0 Adult education
+
+0.0 K-12 education
+
+0.0 Student assessment
+
+0.0 Antitrust and competition
+
+0.0 Transborder data flow
+
+0.0 Seymour Papert
+
+0.0 Pair programming
+
+0.0 Cellular neural networks
+
+0.0 Packet scheduling
+
+0.0 Operational analysis
+
+0.0 Presentation protocols
+
+0.0 Peer-to-peer protocols
+
+0.0 Network policy
+
+0.0 Time synchronization protocols
+
+0.0 Checkpoint / restart
+
+0.0 Cross-layer protocols
+
+0.0 Process synchronization
+
+0.0 Real-time systems software
+
+0.0 Verification
+
+0.0 Operations scheduling
+
+0.0 Performance
+
+0.0 Validation
+
+0.0 Network performance analysis
+
+0.0 Design
+
+0.0 Wireless integrated network sensors
+
+0.0 III-V compounds
+
+0.0 Cultural characteristics
+
+0.0 Geographic characteristics
+
+0.0 People with disabilities
+
+0.0 Sexual orientation
+
+0.0 Religious orientation
+
+0.0 Race and ethnicity
+
+0.0 Interpolation
+
+0.0 Number-theoretic computations
+
+0.0 Arbitrary-precision arithmetic
+
+0.0 Interval arithmetic
+
+0.0 Numerical differentiation
+
+0.0 Partial differential equations
+
+0.0 Ordinary differential equations
+
+0.0 Software product lines
+
+0.0 Flowcharts
+
+0.0 Object oriented development
+
+0.0 Risk management
+
+0.0 Samba
+
+0.0 Backtracking
+
+0.0 Ruby on Rails
+
+0.0 RISC processors
+
+0.0 Yahoo! Inc.
+
+0.0 Perceptron algorithm
+
+0.0 QuickBooks
+
+0.0 Latent variable models
+
+0.0 Mixture models
+
+0.0 Bayesian network models
+
+0.0 Dynamic programming
+
+0.0 Preconditioning
+
+0.0 Maximum a posteriori modeling
+
+0.0 Smalltalk
+
+0.0 Enterprise application integration
+
+0.0 Business process modeling
+
+0.0 Business process monitoring
+
+0.0 Business process management systems
+
+0.0 Cross-organizational business processes
+
+0.0 Enterprise architecture frameworks
+
+0.0 Enterprise architecture management
+
+0.0 Emerging architectures
+
+0.0 Kazimierz Kuratowski
+
+0.0 Kurt Godel
+
+0.0 William C. Norris
+
+0.0 Thomas J. Watson
+
+0.0 Thomas Watson, Jr.
+
+0.0 Herman H. Goldstine
+
+0.0 David Sarnoff
+
+0.0 Douglas R. Hofstadter
+
+0.0 Use cases
+
+0.0 Software design tradeoffs
+
+0.0 Requirements analysis
+
+0.0 Software design engineering
+
+0.0 Acceptance testing
+
+0.0 Functional constructs
+
+0.0 Control primitives
+
+0.0 Incomplete data
+
+0.0 Program schemes
+
+0.0 Object oriented constructs
+
+0.0 Query learning
+
+0.0 3D imaging
+
+0.0 Motion capture
+
+0.0 Viewpoints Research Institute
+
+0.0 World Intellectual Property Organization
+
+0.0 IBM Almaden Research Center
+
+0.0 Charles Babbage Institute
+
+0.0 Video summarization
+
+0.0 Vision for robotics
+
+0.0 Visual inspection
+
+0.0 Epipolar geometry
+
+0.0 Camera calibration
+
+0.0 Hyperspectral imaging
+
+0.0 Computational photography
+
+0.0 Anomaly detection
+
+0.0 Hierarchical data models
+
+0.0 Relational database model
+
+0.0 Entity relationship models
+
+0.0 Semi-structured data
+
+0.0 Quantile regression
+
+0.0 Bayesian computation
+
+0.0 Blogs
+
+0.0 Texting
+
+0.0 Email
+
+0.0 Traffic analysis
+
+0.0 Reputation systems
+
+0.0 Data stream mining
+
+0.0 Computational advertising
+
+0.0 Clustering
+
+0.0 Nearest-neighbor search
+
+0.0 Enterprise applications
+
+0.0 Association rules
+
+0.0 Information systems education
+
+0.0 Model curricula
+
+0.0 Information science education
+
+0.0 Computer engineering education
+
+0.0 Information technology education
+
+0.0 Informal education
+
+0.0 Computing literacy
+
+0.0 Steve Jobs
+
+0.0 Robert R. Everett
+
+0.0 John Sculley
+
+0.0 John Cocke
+
+0.0 John W. Mauchly
+
+0.0 John Von Neumann
+
+0.0 Marvin Lee Minsky
+
+0.0 Konrad Zuse
+
+0.0 Richard M. Karp
+
+0.0 Maurice V. Wilkes
+
+0.0 System modeling languages
+
+0.0 Architecture description languages
+
+0.0 Object oriented frameworks
+
+0.0 Integration frameworks
+
+0.0 Orchestration languages
+
+0.0 Spam detection
+
+0.0 Content ranking
+
+0.0 Web indexing
+
+0.0 Web crawling
+
+0.0 Ranking
+
+0.0 Collaborative filtering
+
+0.0 Network domains
+
+0.0 Wireless devices
+
+0.0 Mobile ad hoc networks
+
+0.0 Scanners
+
+0.0 Touch screens
+
+0.0 Wireless mesh networks
+
+0.0 Wireless personal area networks
+
+0.0 National Academy of Engineering
+
+0.0 Jet Propulsion Laboratory
+
+0.0 Human Factors and Ergonomics Society
+
+0.0 Health informatics
+
+0.0 Electronic  Visualization Laboratory
+
+0.0 Courant Institute of Mathematical Sciences
+
+0.0 Robotic planning
+
+0.0 System-level fault tolerance
+
+0.0 Heuristic function construction
+
+0.0 Redundancy
+
+0.0 Error detection and error correction
+
+0.0 Failure prediction
+
+0.0 Continuous space search
+
+0.0 Randomized search
+
+0.0 Process variations
+
+0.0 Scheduling
+
+0.0 Temperature control
+
+0.0 Temperature optimization
+
+0.0 Datapath optimization
+
+0.0 Hardware-software codesign
+
+0.0 Waterfall model
+
+0.0 Capability Maturity Model
+
+0.0 V-model
+
+0.0 Spiral model
+
+0.0 Agile software development
+
+0.0 Design patterns
+
+0.0 Secure Sockets Layer
+
+0.0 Cross-validation
+
+0.0 Twitter
+
+0.0 SRI International
+
+0.0 SNMP
+
+0.0 Short Message Service
+
+0.0 SPARC
+
+0.0 Telcordia Technologies
+
+0.0 Policy iteration
+
+0.0 Temporal difference learning
+
+0.0 Usenet
+
+0.0 Spectral methods
+
+0.0 Feature selection
+
+0.0 Regularization
+
+0.0 Business-IT alignment
+
+0.0 E-government
+
+0.0 Enterprise data management
+
+0.0 Reference models
+
+0.0 Seniors
+
+0.0 Service-oriented architectures
+
+0.0 Event-driven architectures
+
+0.0 Business rules
+
+0.0 Data centers
+
+0.0 PlanetLab
+
+0.0 Computing platforms
+
+0.0 Jon Kleinberg
+
+0.0 Gene H. Golub
+
+0.0 Kent Beck
+
+0.0 Information visualization
+
+0.0 Social tagging systems
+
+0.0 Quicken
+
+0.0 Network formation
+
+0.0 Data modeling
+
+0.0 Database constraints theory
+
+0.0 Interoperability
+
+0.0 Phase change memory
+
+0.0 Flash memory
+
+0.0 Historical people
+
+0.0 History of programming languages
+
+0.0 Computational thinking
+
+0.0 Routers
+
+0.0 Internet telephony
+
+0.0 Programmable interconnect
+
+0.0 Content match advertising
+
+0.0 Social advertising
+
+0.0 Personalization
+
+0.0 Social recommendation
+
+0.0 Sponsored search advertising
+
+0.0 Site wrapping
+
+0.0 Repeaters
+
+0.0 Deep packet inspection
+
+0.0 Packet classification
+
+0.0 Traffic engineering algorithms
+
+0.0 Network control algorithms
+
+0.0 Network resources allocation
+
+0.0 Hybrid networks
+
+0.0 Network economics
+
+0.0 Network adapters
+
+0.0 Thin provisioning
+
+0.0 Storage power management
+
+0.0 Version management
+
+0.0 Deduplication
+
+0.0 Information lifecycle management
+
+0.0 Storage virtualization
+
+0.0 Hierarchical storage management
+
+0.0 Dynamic analysis
+
+0.0 Metropolis-Hastings algorithm
+
+0.0 Gibbs sampling
+
+0.0 Probabilistic algorithms
+
+0.0 Variable elimination
+
+0.0 Variational methods
+
+0.0 Loopy belief propagation
+
+0.0 Expectation maximization
+
+0.0 Incentive schemes
+
+0.0 Trust
+
+0.0 Social network analysis
+
+0.0 Social networks
+
+0.0 Web conferencing
+
+0.0 Chat
+
+0.0 Answer ranking
+
+0.0 Mobile IP
+
+0.0 WiMAX
+
+0.0 MODIS
+
+0.0 Motorola Solutions, Inc.
+
+0.0 Motorola Mobility, Inc.
+
+0.0 Motorola, Inc.
+
+0.0 Mozilla Foundation
+
+0.0 Mozilla Corporation
+
+0.0 MP3
+
+0.0 MS-DOS
+
+0.0 Ivar Jacobson
+
+0.0 Jakob Nielsen
+
+0.0 Jim Blinn
+
+0.0 Environmental sciences
+
+0.0 Women
+
+0.0 Men
+
+0.0 David Patterson
+
+0.0 IT governance
+
+0.0 Astronomy
+
+0.0 Archaeology
+
+0.0 Latent Dirichlet allocation
+

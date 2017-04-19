@@ -1,0 +1,778 @@
+0.0555555555556 Numerical analysis
+
+0.0 Design and analysis of algorithms
+
+0.0526315789474 Specialized information retrieval
+
+0.0 Software post-development issues
+
+0.0588235294118 Language features
+
+0.0 Document preparation
+
+0.0555555555556 Interaction design process and methods
+
+0.0526315789474 Software and application security
+
+0.0 Human and societal aspects of security and privacy
+
+0.0 Accessibility
+
+0.0 Enterprise interoperability
+
+0.0 Computer vision representations
+
+0.0 Computer vision problems
+
+0.111111111111 Computational biology
+
+0.0 Arts and humanities
+
+0.0 Design reuse and communication-based design
+
+0.0526315789474 Application-specific VLSI designs
+
+0.0 International Business Machines Corporation
+
+0.0 Hewlett-Packard Company
+
+0.0 Discrete mathematics
+
+0.0588235294118 Combinatorics
+
+0.111111111111 Implementation management
+
+0.0 Project and people management
+
+0.0 Management of computing and information systems
+
+0.0 Stochastic processes
+
+0.0555555555556 Mathematical software
+
+0.0 Computing and business
+
+0.111111111111 Network access control
+
+0.0 Network access restrictions
+
+0.111111111111 Network protocols
+
+0.0 Network design principles
+
+0.05 Network architectures
+
+0.0555555555556 Context specific languages
+
+0.0526315789474 Multimedia and multimodal retrieval
+
+0.0 Structure and multilingual text search
+
+0.0 Graph algorithms analysis
+
+0.0 Ubiquitous and mobile devices
+
+0.0555555555556 Visualization techniques
+
+0.0 Graph theory
+
+0.0526315789474 Graph-based database models
+
+0.0 Computers in other domains
+
+0.0 Military
+
+0.111111111111 Document management
+
+0.111111111111 Document capture
+
+0.05 Machine learning
+
+0.0555555555556 Algorithmic game theory and mechanism design
+
+0.176470588235 Genomics
+
+0.0 VLSI packaging
+
+0.0 Xerox Corporation
+
+0.0526315789474 Mixed discrete-continuous optimization
+
+0.05 Cryptography
+
+0.0 Data structures
+
+0.0 Medical information policy
+
+0.0 Medical technologies
+
+0.0526315789474 Functional analysis
+
+0.111111111111 Timing analysis
+
+0.0 Ad hoc networks
+
+0.0 Simulation support systems
+
+0.0526315789474 Quantum technologies
+
+0.0555555555556 Compilers
+
+0.0 Protocol correctness
+
+0.0526315789474 Network layer protocols
+
+0.0 Architectures
+
+0.0 Image and video acquisition
+
+0.05 Computer vision
+
+0.0 Computer vision tasks
+
+0.111111111111 Learning latent representations
+
+0.117647058824 Enterprise computing
+
+0.0 Biology-related information processing
+
+0.0 Circuit substrates
+
+0.0 Program semantics
+
+0.0 Program reasoning
+
+0.0526315789474 Commerce policy
+
+0.0 Intermediate nodes
+
+0.0 Network components
+
+0.117647058824 Application layer protocols
+
+0.0 OAM protocols
+
+0.0 Gender
+
+0.0 Computations on polynomials
+
+0.05 Differential equations
+
+0.0 Reusability
+
+0.0 Software development techniques
+
+0.0625 Software verification and validation
+
+0.0526315789474 Learning linear models
+
+0.0555555555556 Business process management
+
+0.0 Enterprise architectures
+
+0.0 Analysis and design of emerging devices and systems
+
+0.0 Emerging technologies
+
+0.0 Software implementation planning
+
+0.0555555555556 Software creation and management
+
+0.0555555555556 Designing software
+
+0.0555555555556 Program constructs
+
+0.0 Semantics and reasoning
+
+0.0 ABET, Inc.
+
+0.0 Database design and models
+
+0.0526315789474 Data management systems
+
+0.0 Technologies
+
+0.0 Database management system engines
+
+0.0 Database query processing
+
+0.0 Database transaction processing
+
+0.0526315789474 Parallel and distributed DBMSs
+
+0.0 Query languages
+
+0.0 Internet communications tools
+
+0.0526315789474 Web applications
+
+0.1875 Computer science education
+
+0.0 Computing education programs
+
+0.0 System description languages
+
+0.0526315789474 Development frameworks and environments
+
+0.1875 Web search engines
+
+0.0526315789474 World Wide Web
+
+0.0 Web searching and information discovery
+
+0.0 End nodes
+
+0.0526315789474 Wireless access points, base stations and infrastructure
+
+0.0 Logical nodes
+
+0.0 Physical links
+
+0.0526315789474 Network algorithms
+
+0.111111111111 Data path algorithms
+
+0.0 Massachusetts Institute of Technology
+
+0.0 Robustness
+
+0.0526315789474 Fault tolerance
+
+0.0 Design for manufacturability
+
+0.117647058824 Electronic design automation
+
+0.0 High-level and register-transfer level synthesis
+
+0.0526315789474 Software development process management
+
+0.0526315789474 Software development methods
+
+0.0526315789474 Ensemble methods
+
+0.0 Computing in government
+
+0.0 Database theory
+
+0.0 Computing industry
+
+0.0 Professional topics
+
+0.0526315789474 Data layout
+
+0.0 Data access methods
+
+0.0555555555556 History of computing
+
+0.0 Storage management
+
+0.0555555555556 Computing education
+
+0.0625 Web mining
+
+0.05 Online advertising
+
+0.0555555555556 Data extraction and integration
+
+0.0526315789474 Control path algorithms
+
+0.176470588235 Mesh networks
+
+0.111111111111 Network performance evaluation
+
+0.0 Probabilistic reasoning algorithms
+
+0.0 Markov-chain Monte Carlo methods
+
+0.111111111111 Crowdsourcing
+
+0.0 Aerospace
+
+0.0 Physical sciences and engineering
+
+0.0526315789474 User characteristics
+
+0.0 Earth and atmospheric sciences
+0.0 IEEE Computer Society
+
+0.0 Control methods
+
+0.133333333333 Design for testability
+
+0.0555555555556 Distributed artificial intelligence
+
+0.0526315789474 Dynamic programming for Markov decision processes
+
+0.0526315789474 Machine learning algorithms
+
+0.117647058824 Logic synthesis
+
+0.0 Computability
+
+0.0 Formal methods
+
+0.0526315789474 Computing / technology policy
+
+0.0 Intellectual property
+
+0.176470588235 Storage network architectures
+
+0.0 Storage architectures
+
+0.0526315789474 Ring networks
+
+0.0 Network topology types
+
+0.0526315789474 Decision support systems
+
+0.0 Signal processing systems
+
+0.0 Network range
+
+0.0555555555556 Network properties
+
+0.0 Probability and statistics
+
+0.0 Probabilistic representations
+
+0.0 Philosophical/theoretical foundations of artificial intelligence
+
+0.0 People in computing
+
+0.0 Power and energy
+
+0.0 Search engine architectures and scalability
+
+0.0 Energy generation and storage
+
+0.125 Animation
+
+0.0 Tactile and hand-based interfaces
+
+0.0 Factorization methods
+
+0.0 Learning in probabilistic graphical models
+
+0.0 Artificial intelligence
+
+0.0769230769231 Natural language processing
+
+0.0 Relational database query languages
+
+0.0 Software management
+
+0.0 System management
+
+0.0588235294118 Multimedia information systems
+
+0.0526315789474 Network services
+
+0.111111111111 Network reliability
+
+0.0 Network structure
+
+0.0526315789474 Nonparametric representations
+
+0.0 Engineering
+
+0.0526315789474 Thermal issues
+
+0.0 Printed circuit boards
+
+0.0 Communication hardware, interfaces and storage
+
+0.0 Personal computers and PC applications
+
+0.0555555555556 Vulnerability management
+
+0.0 Parallel computing methodologies
+
+0.0 Computer algebra systems
+
+0.0 Representation of mathematical objects
+
+0.0 Alcatel-Lucent
+
+0.117647058824 Modeling and simulation
+
+0.0 Model development and analysis
+
+0.0 Simulation theory
+
+0.0 Simulation types and techniques
+
+0.111111111111 Document representation
+
+0.0 Information retrieval
+
+0.0 Semantic web description languages
+
+0.0 Middleware for databases
+
+0.0 Logic
+
+0.0 Approximation algorithms analysis
+
+0.0 Collaborative and social computing design and evaluation methods
+
+0.166666666667 Visualization
+
+0.0 Collaborative and social computing
+
+0.0 Collaborative and social computing theory, concepts and paradigms
+
+0.0 Ubiquitous and mobile computing
+
+0.0 Ubiquitous and mobile computing theory, concepts and paradigms
+
+0.0 Information systems applications
+
+0.0 Organizations
+
+0.0 Education
+
+0.0 Industry and manufacturing
+
+0.0 Operations research
+
+0.0 Methodologies for EDA
+
+0.0 Hardware validation
+
+0.0 Electromechanical systems
+
+0.0 Dependable and fault-tolerant systems and networks
+
+0.0 Software architectures
+
+0.0 Software system structures
+
+0.111111111111 Shape modeling
+
+0.0 Reconfigurable logic and FPGAs
+
+0.0 Computer forensics
+
+0.0 Spatial-temporal systems
+
+0.05 Rendering
+
+0.0 Web data description languages
+
+0.0 Web services
+
+0.111111111111 Web interfaces
+
+0.176470588235 Embedded systems
+
+0.0 Communications management
+
+0.0 Virtual worlds software
+
+0.0555555555556 Interaction devices
+
+0.0526315789474 Interaction paradigms
+
+0.176470588235 Interaction design
+
+0.0526315789474 HCI design and evaluation methods
+
+0.0555555555556 Interactive systems and tools
+
+0.176470588235 Interaction techniques
+
+0.0 Systems and tools for interaction design
+
+0.0555555555556 Graphics systems and interfaces
+
+0.176470588235 Image manipulation
+
+0.0 Analog and mixed-signal circuits
+
+0.0 Very large scale integration design
+
+0.0 Symbolic and algebraic algorithms
+
+0.0 Symbolic and algebraic manipulation
+
+0.05 Real-time systems
+
+0.0526315789474 Document management and text processing
+
+0.117647058824 Algorithm design techniques
+
+0.0 Data structures design and analysis
+
+0.111111111111 Retrieval models and ranking
+
+0.0526315789474 Users and interactive retrieval
+
+0.0526315789474 Cyber-physical networks
+
+0.0 Overlay and other logical network structures
+
+0.111111111111 Wireless access networks
+
+0.0555555555556 Models of computation
+
+0.0 Age
+
+0.0 Quantum computation theory
+
+0.0526315789474 Statistical paradigms
+
+0.0526315789474 Resampling methods
+
+0.0 Companies
+
+0.111111111111 Hardware reliability
+
+0.0 Data model extensions
+
+0.0526315789474 XML query languages
+
+0.0 Query languages for non-relational engines
+
+0.0 Embedded and cyber-physical systems
+
+0.0 Robotics
+
+0.111111111111 Concurrent computing methodologies
+
+0.0 Process management
+
+0.0 Memory management
+
+0.0526315789474 Online learning algorithms
+
+0.0526315789474 Topology
+
+0.111111111111 Online algorithms
+
+0.0 Probabilistic inference problems
+
+0.05 Supervised learning
+
+0.0 Learning paradigms
+
+0.0 Density estimation
+
+0.0 Integrated circuits
+
+0.0 Interconnect
+
+0.0 Semiconductor memory
+
+0.0 Hardware test
+
+0.0 Hardware attacks and countermeasures
+
+0.0 Continuous mathematics
+
+0.0526315789474 Information integration
+
+0.0 Information retrieval query processing
+
+0.0 Regression analysis
+
+0.111111111111 Relational storage
+
+0.0 Operating systems
+
+0.0526315789474 Software infrastructure
+
+0.0 Contextual software domains
+
+0.0 Software organization and properties
+
+0.0526315789474 Middleware
+
+0.0 Network types
+
+0.0 Logic circuits
+
+0.0 Digital switches
+
+0.176470588235 Functional verification
+
+0.0555555555556 Physical verification
+
+0.0 Software system models
+
+0.0 Document types
+
+0.0 Distributed systems organizing principles
+
+0.0 Other architectures
+
+0.0 Distributed database transactions
+
+0.0 Software defect analysis
+
+0.0 Telecommunications
+
+0.0 Anthropology
+
+0.0 Distributed computing methodologies
+
+0.0 Parameterized complexity and exact algorithms
+
+0.0526315789474 Streaming, sublinear and near linear time algorithms
+
+0.0 Computer graphics
+
+0.0 Hardware security implementation
+
+0.0 Automata extensions
+
+0.0526315789474 Computational complexity and cryptography
+
+0.05 Data mining
+
+0.0 Database administration
+
+0.0526315789474 Evaluation of retrieval results
+
+0.105263157895 Continuous optimization
+
+0.111111111111 Collaboration in software development
+
+0.0625 Discrete optimization
+
+0.111111111111 Software functional properties
+
+0.0 Correctness
+
+0.0 Life and medical sciences
+
+0.0 Electronics
+
+0.0 Distributed architectures
+
+0.0526315789474 Systems security
+
+0.0 Operating systems security
+
+0.0 Security in hardware
+
+0.0 Language types
+
+0.0 General programming languages
+
+0.0 Software fault tolerance
+
+0.0526315789474 Software notations and tools
+
+0.111111111111 Extra-functional properties
+
+0.0526315789474 Multi-task learning
+
+0.176470588235 Unsupervised learning
+
+0.0 Randomness, geometry and discrete structures
+
+0.125 Planning and scheduling
+
+0.0 Energy distribution
+
+0.0555555555556 Learning settings
+
+0.0 Formal methods and theory of security
+
+0.0 Public key (asymmetric) techniques
+
+0.0 Symmetric cryptography and hash functions
+
+0.0 Formalisms
+
+0.0 Formal languages and automata theory
+
+0.0526315789474 Concurrency
+
+0.0 Retrieval tasks and goals
+
+0.0 Computing profession
+
+0.0 Government technology policy
+
+0.0526315789474 Search methodologies
+
+0.0555555555556 Database and storage security
+
+0.0 Formal language definitions
+
+0.05 Quantum computation
+
+0.0 Record storage systems
+
+0.0 Directory structures
+
+0.0 Record storage alternatives
+
+0.0 Record layout alternatives
+
+0.0 Block / page strategies
+
+0.0 Storage replication
+
+0.0555555555556 MIT Media Lab
+
+0.2 Power estimation and optimization
+
+0.0526315789474 Machine learning approaches
+
+0.0526315789474 Logical and relational learning
+
+0.0 Process validation
+
+0.0 Law, social and behavioral sciences
+
+0.0 Proteomics
+
+0.0 Serial architectures
+
+0.0555555555556 Parallel architectures
+
+0.0 Environment-specific retrieval
+
+0.0526315789474 Machine learning theory
+
+0.0 Theory and algorithms for application domains
+
+0.0555555555556 Knowledge representation and reasoning
+
+0.0 Computer crime
+
+0.0 Authentication
+
+0.0526315789474 Security services
+
+0.0 Intrusion/anomaly detection and malware mitigation
+
+0.0 Genetics
+
+0.0 Visualization systems and tools
+
+0.0 Information storage systems
+
+0.0 Information storage technologies
+
+0.285714285714 Storage class memory
+
+0.0 Censorship
+
+0.0 Surveillance
+
+0.0 Information theory
+
+0.0 Mathematical analysis
+
+0.0555555555556 Numerical analysis
+
+0.0 Design and analysis of algorithms
+
+0.0526315789474 Specialized information retrieval
+
+0.0 Software post-development issues
+
+

@@ -1,0 +1,396 @@
+0.0 incremental decision tree
+
+0.0 id3 algorithm
+
+0.0 security through obscurity
+
+0.0 information security standards
+
+0.0 cloud computing security
+
+0.0 security testing
+
+0.0 covert channel
+
+0.0526315789474 minimum description length
+
+0.0 modigliani risk adjusted performance
+
+0.05 deep learning
+
+0.0 speech recognition
+
+0.0 human error
+
+0.0 symbolic data analysis
+
+0.0 hierarchical clustering
+
+0.0 data stream mining
+
+0.0 unsupervised learning
+
+0.0 simulation
+
+0.0526315789474 pu learning
+
+0.0 dynamic network analysis
+
+0.0 entity linking
+
+0.0 knowledge base
+
+0.0 kernel density estimation
+
+0.0 social media
+
+0.0526315789474 mobility model
+
+0.166666666667 crowdsourcing
+
+0.0 scala
+
+0.0 spark
+
+0.0 linear algebra
+
+0.0 parallel computing
+
+0.0 real time computing
+
+0.176470588235 non negative matrix factorization
+
+0.05 memory
+
+0.105263157895 ranking
+
+0.0 pairwise comparison
+
+0.0 games
+
+0.05 feature learning
+
+0.0 html email
+
+0.0454545454545 long short term memory
+
+0.0526315789474 cluster analysis
+
+0.0 social psychology
+
+0.0 feature selection
+
+0.0 unique bid auction
+
+0.047619047619 real time bidding 
+
+0.0 censoring
+
+0.166666666667 viral marketing
+
+0.0 topic model
+
+0.0 latent dirichlet allocation
+
+0.0 operations research
+
+0.105263157895 trajectory
+
+0.0526315789474 econometrics
+
+0.0 predictive analytics
+
+0.0 time series
+
+0.105263157895 hidden markov model
+
+0.0 decision rule
+
+0.0 biological classification
+
+0.0952380952381 collaborative filtering
+
+0.111111111111 recommender system
+
+0.0 planar straight line graph
+
+0.0 null graph
+
+0.0 voltage graph
+
+0.05 asymmetric graph
+
+0.0 complement graph
+
+0.0 comparability graph
+
+0.0 feedback arc set
+
+0.0 book embedding
+
+0.0 graph property
+
+0.0 topological graph theory
+
+0.0 line graph
+
+0.05 graph embedding
+
+0.0 computer vision
+
+0.105263157895 coordinate descent
+
+0.0 linear classifier
+
+0.0526315789474 genome wide association study
+
+0.05 k svd
+
+0.0 neural coding
+
+0.05 sparse approximation
+
+0.0 time series
+
+0.047619047619 stochastic optimization
+
+0.05 heterogeneity
+
+0.0 noise reduction
+
+0.0 hash function
+
+0.1 convolutional neural network
+
+0.05 evolving networks
+
+0.0 competitive learning
+
+0.0 purchase order
+
+0.0 alpha centrality
+
+0.0 network controllability
+
+0.1 betweenness centrality
+
+0.0 network theory
+
+0.047619047619 social network
+
+0.105263157895 sampling
+
+0.0 simplex graph
+
+0.0 null graph
+
+0.0526315789474 strength of a graph
+
+0.0 voltage graph
+
+0.0 complement graph
+
+0.0 multiple edges
+
+0.0 graph power
+
+0.0 butterfly graph
+
+0.0 feedback arc set
+
+0.0 mixed graph, path
+
+0.0 transpose graph
+
+0.0 random geometric graph
+
+0.0 cycle graph
+
+0.0 line graph
+
+0.0526315789474 multigraph
+
+0.105263157895 degree
+
+0.105263157895 random walk
+
+0.0 online machine learning
+
+0.05 stability
+
+0.0 preference learning
+
+0.0 inductive transfer
+
+0.0 multi task learning
+
+0.111111111111 robot learning
+
+0.0 synchronous learning
+
+0.0 generalization error
+
+0.0 competitive learning
+
+0.0 error driven learning
+
+0.0 active learning
+
+0.0 algorithmic learning theory
+
+0.0 learning classifier system
+
+0.0 semi supervised learning
+
+0.0 computational learning theory
+
+0.0 instance based learning
+
+0.0526315789474 rademacher complexity
+
+0.05 modularity
+
+0.0526315789474 harmonic function
+
+0.0 longest alternating subsequence
+
+0.0 longest repeated substring problem
+
+0.0 longest common substring problem
+
+0.0 substring
+
+0.0 longest increasing subsequence
+
+0.0 longest common subsequence problem
+
+0.0526315789474 james stein estimator
+
+0.05 compressed sensing
+
+0.0 educational assessment
+
+0.0 markov chain monte carlo
+
+0.0 adaptive learning
+
+0.047619047619 feature hashing
+
+0.0526315789474 locality preserving hashing
+
+0.0 dynamic perfect hashing
+
+0.0 universal hashing
+
+0.111111111111 locality sensitive hashing
+
+0.0 extendible hashing
+
+0.0 kernel embedding of distributions
+
+0.0 tree kernel
+
+0.0 variable kernel density estimation
+
+0.0 polynomial kernel
+
+0.05 string kernel
+
+0.0 radial basis function kernel
+
+0.047619047619 kernel principal component analysis
+
+0.0 principal component regression
+
+0.0526315789474 kernel method
+
+0.0 principal component analysis
+
+0.047619047619 graph enumeration
+
+0.0 reservoir sampling
+
+0.0 cycle count
+
+0.0 probabilistic analysis of algorithms
+
+0.0526315789474 point of interest
+
+0.05 mixture model
+
+0.0 multi objective optimization
+
+0.0 distance hereditary graph
+
+0.0 folded cube graph
+
+0.0 factor critical graph
+
+0.0 simplex graph
+
+0.0 random coordinate descent
+
+0.105263157895 coordinate descent
+
+0.05 stochastic gradient descent
+
+0.0 covariance intersection
+
+0.0 covariance function
+
+0.0 estimation of covariance matrices
+
+0.0526315789474 lossless compression
+
+0.047619047619 recurrent neural network
+
+0.0 stochastic process
+
+0.047619047619 arithmetic coding
+
+0.05 bayesian network
+
+0.0 email address harvesting
+
+0.05 mixture model
+
+0.05 regularization
+
+0.0 spatial analysis
+
+0.0 causality
+
+0.0 gradient boosting
+
+0.05 cartesian tree
+
+0.0 topological sorting
+
+0.0 confidence interval
+
+0.0 news analytics
+
+0.05 e commerce
+
+0.117647058824 concept drift
+
+0.0 kolmogorov smirnov test
+
+0.05 anomaly detection
+
+0.05 representation learning
+
+0.1875 multi view learning
+
+0.05 big data
+
+0.0 artificial neural network
+
+0.0 factor analysis
+
+0.0 distance hereditary graph
+
+0.105263157895 deep belief network
+
+0.0 computer vision
+

@@ -1,0 +1,26 @@
+0.0555555555556 Human-centered computing
+
+0.0526315789474 Computing methodologies
+
+0.0526315789474 Theory of computation
+
+0.0526315789474 Software and its engineering
+
+0.0 Computer systems organization
+
+0.05 Networks
+
+0.05 Security and privacy
+
+0.05 Hardware
+
+0.0 Applied computing
+
+0.0 General and reference
+
+0.0 Information systems
+
+0.0 Mathematics of computing
+
+0.0 Social and professional topics
+

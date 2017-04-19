@@ -1,0 +1,391 @@
+IEEE Computer Society
+Control methods
+Design for testability
+Distributed artificial intelligence
+Dynamic programming for Markov decision processes
+Machine learning algorithms
+Physical design (EDA)
+Logic synthesis
+Computability
+Formal methods
+Computing / technology policy
+Intellectual property
+Storage network architectures
+Storage architectures
+Ring networks
+Network topology types
+Decision support systems
+Signal processing systems
+Network range
+Network properties
+Probability and statistics
+Probabilistic representations
+Philosophical/theoretical foundations of artificial intelligence
+People in computing
+Power and energy
+Search engine architectures and scalability
+Energy generation and storage
+Animation
+Tactile and hand-based interfaces
+Factorization methods
+Learning in probabilistic graphical models
+Artificial intelligence
+Natural language processing
+Relational database query languages
+Software management
+System management
+Multimedia information systems
+Network services
+Network reliability
+Network structure
+Nonparametric representations
+Engineering
+Thermal issues
+Printed circuit boards
+Communication hardware, interfaces and storage
+Personal computers and PC applications
+Vulnerability management
+Parallel computing methodologies
+Computer algebra systems
+Representation of mathematical objects
+Alcatel-Lucent
+Modeling and simulation
+Model development and analysis
+Simulation theory
+Simulation types and techniques
+Document representation
+Information retrieval
+Semantic web description languages
+Middleware for databases
+Logic
+Approximation algorithms analysis
+Visualization application domains
+Collaborative and social computing design and evaluation methods
+Visualization
+Collaborative and social computing
+Collaborative and social computing theory, concepts and paradigms
+Ubiquitous and mobile computing
+Ubiquitous and mobile computing theory, concepts and paradigms
+Information systems applications
+Organizations
+Education
+Industry and manufacturing
+Operations research
+Methodologies for EDA
+Hardware validation
+Electromechanical systems
+Dependable and fault-tolerant systems and networks
+Software architectures
+Software system structures
+Shape modeling
+Reconfigurable logic and FPGAs
+Computer forensics
+Spatial-temporal systems
+Rendering
+Web data description languages
+Web services
+Web interfaces
+Embedded systems
+Communications management
+Virtual worlds software
+Interaction devices
+Interaction paradigms
+Human computer interaction (HCI)
+Interaction design
+HCI design and evaluation methods
+Interactive systems and tools
+Interaction techniques
+Systems and tools for interaction design
+Graphics systems and interfaces
+Image manipulation
+Analog and mixed-signal circuits
+Very large scale integration design
+Symbolic and algebraic algorithms
+Symbolic and algebraic manipulation
+Real-time systems
+Document management and text processing
+Algorithm design techniques
+Data structures design and analysis
+Retrieval models and ranking
+Users and interactive retrieval
+Cyber-physical networks
+Overlay and other logical network structures
+Wireless access networks
+Models of computation
+Age
+Quantum computation theory
+Statistical paradigms
+Resampling methods
+Companies
+Hardware reliability
+Data model extensions
+XML query languages
+Query languages for non-relational engines
+Embedded and cyber-physical systems
+Robotics
+Concurrent computing methodologies
+Process management
+Memory management
+Online learning algorithms
+Topology
+Online algorithms
+Probabilistic inference problems
+Supervised learning
+Learning paradigms
+Density estimation
+Integrated circuits
+Interconnect
+Semiconductor memory
+Hardware test
+Post-manufacture validation and debug
+Hardware attacks and countermeasures
+Continuous mathematics
+Information integration
+Information retrieval query processing
+Regression analysis
+Relational storage
+Operating systems
+Software infrastructure
+Contextual software domains
+Software organization and properties
+Middleware
+Network types
+Logic circuits
+Digital switches
+Functional verification
+Physical verification
+Software system models
+Document types
+Cross-computing tools and techniques
+Distributed systems organizing principles
+Other architectures
+Distributed database transactions
+Software defect analysis
+Telecommunications
+Anthropology
+Distributed computing methodologies
+Parameterized complexity and exact algorithms
+Streaming, sublinear and near linear time algorithms
+Computer graphics
+Hardware security implementation
+Automata extensions
+Computational complexity and cryptography
+Data mining
+Database administration
+Evaluation of retrieval results
+Continuous optimization
+Collaboration in software development
+Discrete optimization
+Software functional properties
+Correctness
+Life and medical sciences
+Electronics
+Distributed architectures
+Systems security
+Operating systems security
+Security in hardware
+Language types
+General programming languages
+Software fault tolerance
+Software notations and tools
+Extra-functional properties
+Multi-task learning
+Unsupervised learning
+Randomness, geometry and discrete structures
+Planning and scheduling
+Energy distribution
+Learning settings
+Formal methods and theory of security
+Public key (asymmetric) techniques
+Symmetric cryptography and hash functions
+Formalisms
+Formal languages and automata theory
+Concurrency
+Retrieval tasks and goals
+Computing profession
+Government technology policy
+Search methodologies
+Database and storage security
+Formal language definitions
+Quantum computation
+Record storage systems
+Directory structures
+Record storage alternatives
+Record layout alternatives
+Block / page strategies
+Storage replication
+MIT Media Lab
+Power estimation and optimization
+Machine learning approaches
+Logical and relational learning
+Process validation
+Law, social and behavioral sciences
+Proteomics
+Serial architectures
+Parallel architectures
+Environment-specific retrieval
+Machine learning theory
+Theory and algorithms for application domains
+Knowledge representation and reasoning
+Computer crime
+Authentication
+Security services
+Intrusion/anomaly detection and malware mitigation
+Genetics
+Visualization systems and tools
+Information storage systems
+Information storage technologies
+Storage class memory
+Censorship
+Surveillance
+Information theory
+Mathematical analysis
+Numerical analysis
+Design and analysis of algorithms
+Specialized information retrieval
+Software post-development issues
+Language features
+Document preparation
+Interaction design process and methods
+Software and application security
+Human and societal aspects of security and privacy
+Accessibility
+Enterprise interoperability
+Computer vision representations
+Computer vision problems
+Computational biology
+Arts and humanities
+Design reuse and communication-based design
+Application-specific VLSI designs
+International Business Machines Corporation
+Hewlett-Packard Company
+Discrete mathematics
+Combinatorics
+Implementation management
+Project and people management
+Management of computing and information systems
+Stochastic processes
+Mathematical software
+Computing and business
+Network access control
+Network access restrictions
+Network protocols
+Network design principles
+Network architectures
+Context specific languages
+Multimedia and multimodal retrieval
+Structure and multilingual text search
+Graph algorithms analysis
+Ubiquitous and mobile devices
+Visualization techniques
+Graph theory
+Graph-based database models
+Computers in other domains
+Architecture (buildings)
+Military
+Document management
+Document capture
+Machine learning
+Algorithmic game theory and mechanism design
+Genomics
+VLSI packaging
+Xerox Corporation
+Mixed discrete-continuous optimization
+Cryptography
+Data structures
+Medical information policy
+Medical technologies
+Functional analysis
+Timing analysis
+Ad hoc networks
+Simulation support systems
+Quantum technologies
+Compilers
+Protocol correctness
+Network layer protocols
+Architectures
+Image and video acquisition
+Computer vision
+Computer vision tasks
+Learning latent representations
+Enterprise computing
+Biology-related information processing
+Circuit substrates
+Program semantics
+Program reasoning
+Commerce policy
+Intermediate nodes
+Network components
+Application layer protocols
+OAM protocols
+Gender
+Computations on polynomials
+Differential equations
+Reusability
+Software development techniques
+Software verification and validation
+Learning linear models
+Business process management
+Enterprise architectures
+Analysis and design of emerging devices and systems
+Emerging technologies
+Software implementation planning
+Software creation and management
+Designing software
+Program constructs
+Semantics and reasoning
+ABET, Inc.
+Database design and models
+Data management systems
+Technologies
+Database management system engines
+Database query processing
+Database transaction processing
+Parallel and distributed DBMSs
+Query languages
+Internet communications tools
+Web applications
+Computer science education
+Computing education programs
+System description languages
+Development frameworks and environments
+Web search engines
+World Wide Web
+Web searching and information discovery
+End nodes
+Wireless access points, base stations and infrastructure
+Logical nodes
+Physical links
+Network algorithms
+Data path algorithms
+Massachusetts Institute of Technology
+Robustness
+Fault tolerance
+Design for manufacturability
+Electronic design automation
+High-level and register-transfer level synthesis
+Software development process management
+Software development methods
+Ensemble methods
+Computing in government
+Database theory
+Computing industry
+Professional topics
+Data layout
+Data access methods
+History of computing
+Storage management
+Computing education
+Web mining
+Online advertising
+Data extraction and integration
+Control path algorithms
+Mesh networks
+Network performance evaluation
+Probabilistic reasoning algorithms
+Markov-chain Monte Carlo methods
+Crowdsourcing
+Aerospace
+Physical sciences and engineering
+User characteristics
+Earth and atmospheric sciences

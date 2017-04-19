@@ -1,0 +1,22 @@
+GS_SS	a	GS+SS
+
+SS_SCOPUS	b	SS+SC
+
+SCOPUS_MAS	c	MA+SC
+
+MAS_GS	d	GS+MA
+
+GS_SCOPUS	e	GS+SC
+
+SS_MAS	ff	SS+MA
+
+GS_SS_SCOPUS	g	GS+SS+SC
+SS_SCOPUS_MAS	h	SS+SC+MA
+SCOPUS_MAS_GS	i	SC+MA+GS
+MAS_GS_SS	j	MA+GS+SS
+GS_SS_SCOPUS_MAS	k	GS+SS+SC+MA
+
+paste -d, A.txt D.txt E.txt F.txt B.txt C.txt G.txt H.txt I.txt J.txt K.txt > combine_file.txt
+python matplotlib_boxplot.py combine_file.txt
+
+

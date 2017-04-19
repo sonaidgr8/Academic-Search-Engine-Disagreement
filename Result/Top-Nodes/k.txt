@@ -1,0 +1,20 @@
+0.0 Human-centered computing
+
+0.0 Computing methodologies
+
+0.0 Theory of computation
+
+0.0 Networks
+
+0.0 Security and privacy
+
+0.0 Hardware
+
+0.0 Applied computing
+
+0.0 General and reference
+
+0.0 Information systems
+
+0.0 Mathematics of computing
+

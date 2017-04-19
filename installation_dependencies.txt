@@ -1,0 +1,41 @@
+Python 2.7
+++++++++++++++++++++++++++++
+sudo apt-get install build-essential g++ python-dev python-numpy python-numpy-dev python-matplotlib 
+python-setuptools python-scipy libblas-dev liblapack-dev gfortran libatlas-dev ipython  
+sudo apt-get install python-sklearn python-pandas
+
+rdflib4.2.1
+selenium 3.0.2
+sqlalchemy 1.1.4
+python-skos-0.1.1
+urllib 1/2/3
+
+sudo apt-get install xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
+htop
+sudo apt-get install python-setuptools
+pip install rdflib
+sudo apt-get install python-pip
+pip install sqlalchemy
+pip install python-skos
+pip install isodate
+sudo apt-get install xvfb
+
+Xvfb :99 -ac &
+export DISPLAY=:99
+pip install cython fuzzywuzzy
+pip install sklearn
+pip install scipy
+pip install requests
+pip install selenium
+pip install bs4
+sudo apt-get install firefox
+
+
+wget -c https://github.com/mozilla/geckodriver/releases/download/v0.11.1/geckodriver-v0.11.1-linux64.tar.gz
+tar xvf geckodriver-v0.11.1-linux64.tar.gz
+ls
+sudo cp geckodriver /usr/local/bin/
+ls -lh /usr/local/bin/
+
+python ss_scholar.py -c 10 --phrase " " >> recorded_script_exp1.txt
+

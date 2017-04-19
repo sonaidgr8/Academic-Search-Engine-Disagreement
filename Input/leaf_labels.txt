@@ -1,0 +1,1882 @@
+Network games
+Representations of games and their complexity
+Computational pricing and auctions
+Market equilibria
+Convergence and learning in games
+Quality of equilibria
+Exact and approximate computation of equilibria
+Solution concepts in game theory
+Algorithmic mechanism design
+Algorithmic game theory
+Virtual University Enterprises
+World Wide Web Consortium
+SANS Institute
+Systems Research Center
+Personal Robots Group
+Sandia National Laboratories
+The Standish Group International, Inc.
+The IBM Toronto Software Lab
+Test Technology Technical Council
+Abstraction and micro-operators
+Memory test and repair
+Built-in self-test
+Defect-based test
+Test data compression
+Computational control theory
+Theory of mind
+Testing with distributed and parallel systems
+Test-pattern generation and fault simulation
+Deep belief networks
+Q-learning
+Value iteration
+Modeling and parameter extraction
+Transistor-level synthesis
+Technology-mapping
+Sequential synthesis
+Circuit optimization
+Combinational synthesis
+Packaging
+Clock-network synthesis
+Probabilistic computation
+Triggers and rules
+Discretization
+Yahoo! (portal)
+Los Alamos National Laboratory
+Internet governance / domain names
+Industry statistics
+Computer manufacturing
+Copyrights
+Software reverse engineering
+Patents
+Trademarks
+Distributed storage
+Information system economics
+Storage recovery strategies
+Quality assurance
+Network operations
+File systems management
+Software verification
+Star networks
+Bus networks
+Point-to-point networks
+Cognitive radios
+Fiber distributed data interface (FDDI)
+Token ring networks
+Data warehouses
+Expert systems
+Data analytics
+Mobile information processing systems
+Process control systems
+Digital signal processing
+Beamforming
+Wide area networks
+Very long-range networks
+Local area networks
+Metropolitan area networks
+Short-range networks
+Network experimentation
+Network performance modeling
+Network simulations
+Network flows
+Fault models and test metrics
+Extremal graph theory
+Matroids and greedoids
+Paths and connectivity problems
+Graph enumeration
+Matchings and factors
+Graphs and surfaces
+Numeric approximation algorithms
+Game tree search
+Retrieval effectiveness
+Cognitive science
+MapReduce algorithms
+Allen Newell
+Motion path planning
+A. van Wijngaarden
+Alan Cooper
+Online test and diagnostics
+Alan Mathison Turing
+Alan J. Perlis
+Allen Kent
+Packing and covering problems
+Malicious design modifications
+Multi-chip modules
+Rare-event simulation
+Quantum mechanic simulation
+Molecular simulation
+Distributed simulation
+Continuous simulation
+Discrete-event simulation
+Agent / discrete models
+Cognitive robotics
+Continuous models
+Real-time simulation
+Reusable energy storage
+Batteries
+Spatial and physical reasoning
+Printers
+Sensor applications and deployments
+Sensor devices and platforms
+Sound-based input / output
+Buses and high-speed links
+Displays and imagers
+External storage
+Networking hardware
+PowerPC
+Pentium
+PDF
+Outlook
+OpenMP
+NetWare
+MySQL
+James Gosling
+Gordon Bell
+Stefan Banach
+Marian Smoluchowski
+Peter J. Denning
+Mark D. Weiser
+Linus Torvalds
+John McCarthy
+Social navigation
+Participatory design
+Empirical studies
+Peter Norton
+Assertion checking
+Inconsistent data
+Measurement
+Graph algorithms
+Divide and conquer
+QuickTime
+QuarkXPress
+Computational advertising theory
+Maximum likelihood modeling
+Simulink
+Object recognition
+Maximum entropy modeling
+Data scans
+Point lookups
+Vector / streaming algorithms
+Shared memory algorithms
+Distributed programming languages
+Massively parallel algorithms
+Parallel programming languages
+Structured Query Language
+Technology audits
+Centralization / decentralization
+Pricing and resource allocation
+Computing equipment management
+Software selection and adaptation
+Software maintenance
+Supply chain management
+Massively multiplayer online games
+Multimedia content creation
+Multimedia streaming
+Hypertext / hypermedia
+Multimedia databases
+Noise reduction
+Network manageability
+Network dynamics
+Network mobility
+Topology analysis and generation
+Logical / virtual topologies
+Physical topologies
+Decision diagrams
+Factor graphs
+Markov networks
+Bayesian networks
+Stochastic differential equations
+Causal networks
+Equational models
+Spline models
+Kernel density estimators
+Privacy policies
+Identity theft
+Secondary liability
+Database protection laws
+Treaties
+Licensing
+Biometrics
+National Science Foundation
+Oak Ridge National Laboratory
+Secondary storage organization
+Processors and memory architectures
+PCB design and layout
+Electromagnetic interference and compatibility
+Lawrence Livermore National Laboratory
+Office
+London Mathematical Society
+Max Planck Institutes
+VHDL
+Skype
+National Institute of Standards and Technology
+Word processors
+Spreadsheets
+Defense Advanced Research Projects Agency
+Dell Computer Corporation
+DiamondCluster International, Inc.
+Citrix Systems, Inc.
+Commerce One
+Compaq Computer Corporation
+Ambient intelligence
+Mobile computing
+Ubiquitous computing
+Tablet computers
+E-book readers
+Handheld game consoles
+Personal digital assistants
+Empirical studies in HCI
+Laboratory experiments
+Hardware reverse engineering
+File system security
+Virtual worlds training simulations
+Public key encryption
+Separation logic
+Fault-tolerant network topologies
+Type theory
+Hoare logic
+Penetration testing
+Vulnerability scanners
+Representation of polynomials
+Optimization algorithms
+Boolean algebra algorithms
+Special-purpose algebraic systems
+Representation of exact numbers
+Representation of Boolean functions
+Representation of mathematical functions
+SharePoint
+BEA Systems, Inc.
+Blizzard Entertainment
+AT&T
+BAE Systems
+Apple, Inc.
+AOL, Inc.
+Blue Sky Studios
+Borland Software Corporation
+Barry W. Boehm
+Bill Gates
+Andrew S. Grove
+Safety critical systems
+Barbara Liskov
+Signal integrity and noise analysis
+Process, voltage and temperature variations
+Early-life failures and infant mortality
+Circuit hardening
+Aging of circuits and systems
+Bill Joy
+Yield and cost optimization
+Yield and cost modeling
+Modeling methodologies
+Uncertainty quantification
+Model verification and validation
+Systems theory
+Network science
+Linear programming
+Chemistry
+Document structure
+Web Ontology Language (OWL)
+Resource Description Framework (RDF)
+XPath
+XQuery
+Extensible Markup Language (XML)
+Application servers
+Object-relational mapping facilities
+Database web servers
+Data replication tools
+Distributed transaction monitors
+Data federation tools
+Message queues
+Service buses
+Proof theory
+Modal and temporal logics
+Model checking
+Constructive mathematics
+Description logics
+Automated reasoning
+Constraint and logic programming
+Equational logic and rewriting
+Finite Model Theory
+Ubiquitous and mobile computing design and evaluation methods
+Hypergraphs
+Combinatorial optimization
+Empirical studies in interaction design
+Interaction design theory, concepts and paradigms
+Gestural input
+Pointing
+User interface toolkits
+User interface programming
+Collaborative interaction
+Field studies
+Text input
+Haptic devices
+Hardware-based security protocols
+Prolog
+Intranets
+Mediators and data integration
+Entity resolution
+PowerPoint
+Wrappers (data mining)
+Data dictionaries
+China Telecom Corporation Limited
+Cable & Wireless Worldwide
+CA Technologies
+Data recovery
+Cadence Design Systems
+Computer-aided manufacturing
+Agriculture
+Command and control
+Forecasting
+Decision analysis
+Transportation
+Association for Computing Machinery
+Bjarne Stroustrup
+Bill Millard
+C. A. R. Hoare
+Bruce Schneier
+Best practices for EDA
+Statistical timing analysis
+Transition-based timing analysis
+Design databases for EDA
+Software tools for EDA
+Open Knowledge Society
+JISC
+Isaac Newton Institute for Mathematical Sciences
+ITU
+International Organization for Standardization
+Physical simulation
+Free Software Foundation
+Memory and dense storage
+Ray tracing
+Nanoelectromechanical systems
+Reflectance modeling
+Simulation evaluation
+Flexible and printable circuits
+Lawrence Berkeley National Laboratory
+Rasterization
+Visual content-based indexing and retrieval
+Computing Accreditation Commission
+Gmail
+Availability
+Maintainability and maintenance
+Federal Communications Commission
+Reliability
+Real-time system architecture
+DNS (Domain Name System)
+CDMA systems
+DSM
+DSL
+Oracle Database
+Forrester Research
+Ernst & Young
+Digital Equipment Corporation
+Verification by model checking
+Microcomputers
+Computer games
+Ericsson
+EMC Corporation
+EIS, Inc.
+Regret bounds
+Cooperating communicating processes
+Interactive games
+Electronic blackboards
+Layered systems
+Publish-subscribe / event-based architectures
+Simulator / interpreter
+Object oriented architectures
+Marketing
+Cisco Systems, Inc.
+Package-level interconnect
+Mesh models
+Graphics file formats
+Image compression
+Mixed / augmented reality
+Perception
+Graphics input devices
+Association for Information Systems
+Mesh geometry models
+Parametric curve and surface models
+Hybrid symbolic-numeric methods
+Discrete calculus algorithms
+Number theory algorithms
+Quantum query complexity
+Algebraic algorithms
+Nonalgebraic algorithms
+Symbolic calculus algorithms
+Exact arithmetic algorithms
+Linear algebra algorithms
+Theorem proving algorithms
+Hardware accelerators
+Charles Babbage
+Quadrature
+Procedural animation
+International Game Developers Association
+Emerging interfaces
+European Telecommunications Standards Institute
+Microelectromechanical systems
+Non-photorealistic rendering
+Superconducting circuits
+Data streaming
+Sensor networks
+Visibility
+Extranets
+Enterprise resource planning
+Collaborative content creation
+Social content sharing
+Geographic information systems
+Carbon based electronics
+Universal Description Discovery and Integration (UDDI)
+Simple Object Access Protocol (SOAP)
+Web Services Description Language (WSDL)
+RESTful web services
+Wikis
+Mashups
+Browsers
+Heap (data structure)
+Enterprise application integration tools
+Indexed file organization
+Hashed file organization
+B-trees
+Linked lists
+Inodes
+Vnodes
+Slotted pages
+Extent-based file structures
+Circuit complexity
+Communication complexity
+Algebraic complexity theory
+Oracles and decision trees
+Proof complexity
+Quantum complexity theory
+Complexity theory and logic
+Interactive proof systems
+Cryptographic protocols
+Cryptographic primitives
+Embedded software
+Firmware
+System on a chip
+Embedded hardware
+Backup procedures
+Synchronization
+Monitors
+Concurrency control
+Mutual exclusion
+Power management
+Input / output
+Buffering
+Message passing
+Langley Research Center
+HCI theory, concepts and models
+Visualization theory, concepts and paradigms
+Empirical studies in visualization
+Social media
+Empirical studies in collaborative and social computing
+Ethnographic studies
+Collaborative and social computing devices
+Synchronous editors
+Asynchronous editors
+Empirical studies in ubiquitous and mobile computing
+Graphical / visual passwords
+Multi-factor authentication
+Firewalls
+Denial-of-service attacks
+Spoofing attacks
+Phishing
+Windows
+Image-based rendering
+Texturing
+Antialiasing
+Collision detection
+Motion processing
+Image processing
+Graphics processors
+Data conversion
+Pre- and post-conditions
+Program specifications
+High-speed input / output
+Object Management Group
+Wireline communication
+ANSI C
+Business Process Execution Language
+Real-time languages
+Real-time system specification
+Real-time operating systems
+Nonconvex optimization
+Document searching
+Middleware business process managers
+Hypertext languages
+Ontologies
+Interactive learning environments
+Thesauri
+Learning management systems
+Collaborative learning
+E-learning
+Distance learning
+Computer-managed instruction
+Static timing analysis
+Compact delay models
+Optical character recognition
+Gary McGraw
+Georg Scheutz
+Placement
+Partitioning and floorplanning
+Power grid design
+Physical synthesis
+Clive Sinclair
+Wire routing
+Model-order reduction
+Claude Elwood Shannon
+VRML
+Simulation tools
+Wikipedia
+Physical data models
+Visual Basic
+VMware
+VoiceXML
+Single electron devices
+Massively parallel and high-performance simulations
+Multiscale systems
+Tunneling devices
+Reversible logic
+Emerging optical and photonic technologies
+Visual analytics
+Plasmonics
+Text editing
+Interface definition languages
+Dynamic graph algorithms
+Shortest paths
+Sparsification and spanners
+Cell probe models and lower bounds
+Predecessor queries
+Sorting and searching
+Pattern matching
+Specialized application languages
+Branch-and-bound
+Rank aggregation
+Query reformulation
+User models
+Task models
+User studies
+Search interfaces
+Collaborative search
+Transaction logging
+Database recovery
+Null values in records
+Query planning
+Join algorithms
+Data locking
+Intrapage space management
+Interpage free-space management
+Fixed length attributes
+Variable length attributes
+SQL Server
+Data center networks
+Wired access networks
+Mobile networks
+Peer-to-peer networks
+World Wide Web (network structure)
+Social media networks
+Information flow control
+Digital signatures
+Hash functions and message authentication codes
+Database activity monitoring
+Adolescents
+Recursive functions
+Database views
+Integrity checking
+Turing machines
+Abstract data types
+Software engineering education
+Data streams
+Interactive computation
+Queueing theory
+Simulated annealing
+Markov-chain Monte Carlo convergence measures
+Sequential Monte Carlo methods
+Kalman filters and hidden Markov models
+Bootstrapping
+Jackknifing
+Random number generation
+Assertions
+Agilent Technologies
+Agere Systems, Inc.
+Advanced Information Systems
+Macromedia
+Adobe Systems Incorporated
+Accenture
+Privacy protections
+John Vincent Atanasoff
+J. Presper Eckert
+Herman Hollerith
+Jay Wright Forrester
+J. H. Wilkinson
+H. D. Goode
+Grace Murray Hopper
+Herbert R. J. Grosch
+Herbert A. Simon
+XILINX
+X3D
+X-Window
+WordNet
+HP Labs
+Bell Labs
+ZigBee
+YouTube
+Uncertainty
+Global positioning systems
+FreeBSD
+Call level interfaces
+MapReduce languages
+Spectra of graphs
+External interfaces for robotics
+Sensors and actuators
+Quantum computing
+Molecular computing
+Robotic components
+Robotic control
+Robotic autonomy
+Accessibility systems and tools
+Accessibility technologies
+Accessibility design and evaluation methods
+Empirical studies in accessibility
+Accessibility theory, concepts and paradigms
+Visualization toolkits
+Visualization design and evaluation methods
+Concurrent algorithms
+Continuous functions
+Multithreading
+Multiprocessing / multiprogramming / multitasking
+Garbage collection
+Distributed memory
+Secondary storage
+Virtual memory
+Main memory
+Allocation / deallocation strategies
+Caching and paging algorithms
+Extraction, transformation and loading
+Semidefinite programming
+Convex optimization
+Submodular optimization and polymatroids
+Stochastic control and optimization
+Quasiconvex programming and unimodality
+Integer programming
+Maximum likelihood estimation
+Classification and regression trees
+Bayesian nonparametric models
+Hypothesis testing and confidence interval computation
+Computing most probable explanation
+3D integrated circuits
+Input / output circuits
+Metallic interconnect
+Photonic and optical interconnect
+Radio frequency and wireless interconnect
+Dynamic memory
+Static memory
+Moving Picture Experts Group
+Bug detection, localization and diagnosis
+Bug fixing (hardware)
+Design for debug
+Layout-versus-schematics
+Power and thermal analysis
+Timing analysis and sign-off
+Analog, mixed-signal and radio frequency test
+Board- and system-level test
+Equation and inequality solving algorithms
+Abstract machines
+Finite state machines
+Sequential circuits
+Ada Lovelace
+Taiwan Semiconductor Manufacturing Company, Limited
+Geometric topology
+Algebraic topology
+Gröbner bases and other special bases
+Query optimization
+Autonomous database administration
+Point-set topology
+Database performance evaluation
+Data cleaning
+Mesh generation
+Automatic differentiation
+Query intent
+Query representation
+Document collection models
+Data encoding and canonicalization
+Content analysis and feature selection
+Document topic models
+Avionics
+Query suggestion
+Query log analysis
+Cluster analysis
+Dimensionality reduction
+Renewal theory
+Survival analysis
+Time series analysis
+Robust regression
+Contingency table analysis
+Exploratory data analysis
+Statistical graphics
+Compression strategies
+Hybrid storage layouts
+Column based storage
+Vertical partitioning
+Horizontal partitioning
+Cellular architectures
+Design languages
+Extensible languages
+Data flow languages
+Domain specific languages
+Concurrent programming languages
+Constraint and logic languages
+Functional languages
+Imperative languages
+Object oriented languages
+Side-channel analysis and countermeasures
+Usability in security and privacy
+Searching with auxiliary databases
+Wireframes
+Network measurement
+Packet-switching networks
+Consumer products policy
+JSP
+LAPACK
+JPEG
+Macintosh OS
+Macintosh
+Linux
+Lotus Notes
+Interpreters
+Embedded middleware
+Reflective middleware
+Message oriented middleware
+Storage area networks
+Home networks
+Network on chip
+Network monitoring
+Network management
+In-network processing
+Programmable networks
+Location based services
+Cloud computing
+SAS Institute, Inc.
+Sega Corporation
+RSA
+Rational Software Corporation
+Research in Motion Limited
+Pixar Animation Studios
+Quest Software, Inc.
+Siemens AG
+Silicon Graphics, Inc.
+Incremental compilers
+Design modules and hierarchy
+Combinational circuits
+Asynchronous circuits
+Arithmetic and datapath circuits
+Logic families
+Transistors
+Read-only memory
+Non-volatile memory
+Equivalence checking
+Coverage metrics
+Theorem proving and SAT solving
+Transaction-level verification
+Simulation and emulation
+Semi-formal verification
+Design rule checking
+Contextual design
+Metrics
+BASIC
+Data flow architectures
+Analog computers
+Reconfigurable computing
+Grid computing
+Bluetooth
+AppleScript
+Optical computing
+Self-organizing autonomic computing
+MapReduce-based systems
+Key-value stores
+Distributed database recovery
+Deadlocks
+Distributed data locking
+Proximity search
+Unidimensional range search
+Photoshop
+Authorization
+Ajax
+Transcriptomics
+Ethnography
+Entity relationship modeling
+State systems
+Cell Broadband Engine
+CMOS
+Random order and robust communication complexity
+Lower bounds and information complexity
+Adversary models
+K-server algorithms
+Fixed parameter tractability
+W hierarchy
+Sketching and sampling
+Bloom filters and hashing
+MATLAB
+R. Milner
+Documentation
+Multi-agent planning
+Online auctions
+Open source software
+Voting / election technologies
+Import / export controls
+Hardware reliability screening
+Remote replication
+Point-in-time copies
+Cloud based storage
+Direct attached storage
+Network attached storage
+JavaScript
+Virtual machines
+Database utilities and tools
+Automata over infinite objects
+Grammars and context-free languages
+Tree languages
+Transducers
+Quantitative automata
+Regular languages
+Complexity classes
+Problems, reductions and completeness
+Mathematica
+Information extraction
+Sentiment analysis
+Recommender systems
+Clustering and classification
+Summarization
+Expert search
+Near-duplicate and plagiarism detection
+Quadratic programming
+Experimentation
+Evaluation
+Estimation
+Programming teams
+Network optimization
+Socio-technical systems
+Ultra-large-scale systems
+Functionality
+Real-time schedulability
+Consistency
+Completeness
+Consumer health
+Health care information systems
+Mathematics and statistics
+Computer-aided design
+Physics
+Quantum information theory
+Multiple instruction, single data
+Interconnection architectures
+Multiple instruction, multiple data
+Multicore architectures
+Single instruction, multiple data
+Systolic arrays
+Client-server architectures
+n-tier architectures
+Stream management
+Online analytical processing
+Main memory engines
+Online analytical processing engines
+Deep web
+Surfacing
+Search results deduplication
+Service discovery and interfaces
+Data exchange
+Tamper-proof and tamper-resistant designs
+Embedded systems security
+Mobile platform security
+Trusted computing
+Software reliability
+Quantum communication complexity
+Automated static analysis
+Software performance
+Database query processing and optimization (theory)
+Data structures and algorithms for data management
+High-level language architectures
+Business intelligence
+Electro-mechanical devices
+Special purpose systems
+Analog and mixed-signal circuit synthesis
+Reconfigurable logic applications
+Switching devices power issues
+Hard and soft IP
+Google Scholar
+Google Maps
+HDTV
+GSM
+InfiniBand
+HP-UX
+iPod
+iPhone
+IPv6
+IPTV
+Bridges and switches
+Cost-sensitive learning
+Mixture modeling
+Supervised learning by regression
+Structured outputs
+Supervised learning by classification
+Topic modeling
+Source separation
+Generating random combinatorial structures
+Random walks and Markov chains
+Expander graphs and randomness extractors
+Error-correcting codes
+Nearest neighbor algorithms
+Pseudorandomness and derandomization
+Computational geometry
+Random projections and metric embeddings
+Random network models
+Wireless local area networks
+Network servers
+Novell, Inc.
+Sun Microsystems
+Oracle Corporation
+National Instruments Corporation
+National Academy of Sciences
+Nortel Networks Corporation
+National Research Council
+NXP Semiconductors
+Philips Semiconductors
+Reasoning about belief and knowledge
+Energy metering
+Probabilistic reasoning
+Vagueness and fuzzy logic
+Causal reasoning and diagnostics
+Temporal reasoning
+Renewable energy
+Ontology engineering
+Logic programming and answer set programming
+Fuel-based energy
+Semi-supervised learning
+Online learning settings
+Active learning
+Batch learning
+Health information exchanges
+Information-theoretic techniques
+Mathematical foundations of cryptography
+Trust frameworks
+Key management
+Cryptanalysis and other attacks
+Security requirements
+Formal security models
+Approximation
+Windows environment
+Rewrite systems
+Algebraic language theory
+Timed and hybrid models
+Process calculi
+Distributed computing models
+Parallel computing models
+Streaming models
+Language models
+Probabilistic retrieval models
+Learning to rank
+Similarity measures
+Information retrieval diversity
+Combination, fusion and federated search
+Top-k retrieval in databases
+Document filtering
+Question answering
+Computing occupations
+Funding
+Assistive technologies
+Testing, certification and licensing
+Computing organizations
+Governmental regulations
+Self-checking mechanisms
+Failure recovery, maintenance and self-repair
+Discrete space search
+Planning for deterministic actions
+Planning under uncertainty
+Security protocols
+Mobile and wireless security
+Web protocol security
+Browser security
+Virtualization and security
+Distributed systems security
+Planning with abstraction and generalization
+Data anonymization and sanitization
+Frameworks
+Modules / packages
+Constraints
+Recursion
+Concurrent programming structures
+Procedures, functions and subroutines
+Patterns
+Coroutines
+Quantum error correction and fault tolerance
+Quantum dots and cellular automata
+Enterprise level and data centers power issues
+Quantum communication and cryptography
+Interconnect power issues
+Circuits power issues
+Chip-level power issues
+Platform power issues
+RAID
+Tape libraries
+Mirroring
+Internet Corporation for Assigned Names and Numbers
+Iona Technologies
+ITSS, Inc.
+Juniper Networks
+Lockheed Martin Corporation
+McKinsey & Company
+Microsoft Corporation
+Temperature simulation and estimation
+Temperature monitoring
+Power networks
+Power conversion
+Impact on the environment
+Smart grid
+Statistical relational learning
+Inductive logic learning
+Learning from implicit feedback
+Learning from critiques
+Learning from demonstrations
+Gaussian processes
+Support vector machines
+Neural networks
+Fault tree analysis
+Walkthroughs
+AutoCAD
+Psychology
+Law
+ActiveX
+Ada language
+Massively parallel systems
+Feature interaction
+Model-driven software engineering
+Bioinformatics
+Petri nets
+Metabolomics / metabonomics
+OFDM System
+Reduced instruction set computing
+Superscalar architectures
+Complex instruction set computing
+Stack machines
+Pipeline computing
+Very long instruction word
+IP Multimedia Subsystem
+Haskell
+JAVA ME
+MIMO Systems
+MSN (portal)
+Novell, Inc
+Link and co-citation analysis
+Adversarial retrieval
+Web and social media search
+Heuristic evaluations
+Usability testing
+Walkthrough evaluations
+User centered design
+User interface design
+Multi-agent reinforcement learning
+Apprenticeship learning
+Transfer learning
+Adversarial learning
+Dimensionality reduction and manifold learning
+Motif discovery
+Inverse reinforcement learning
+Sequential decision making
+Learning under covariate shift
+Lifelong machine learning
+Boolean function learning
+Sample complexity and generalization bounds
+Bayesian analysis
+Boosting
+Unsupervised learning and clustering
+Online learning theory
+Inductive inference
+Language resources
+Phonology / morphology
+Lexical semantics
+Speech recognition
+Natural language generation
+Discourse, dialogue and pragmatics
+Machine translation
+Nonmonotonic, default reasoning and belief revision
+Semantic networks
+Transport Layer Security
+Toshiba Corporation
+Texas Instruments Inc.
+Software Engineering Institute
+Solaris
+Malware / spyware crime
+Social engineering (social sciences)
+Financial crime
+Offshoring
+Reengineering
+Computer supported cooperative work
+Economic impact
+Virage Logic
+Bagging
+UMTS
+Heterogeneous (hybrid) systems
+Scientific visualization
+Access control
+Logic and verification
+Digital rights management
+Privacy-preserving protocols
+Pseudonymity, anonymity and untraceability
+Intrusion detection systems
+Malware and its mitigation
+Enterprise modeling
+Computational genomics
+Desktop search
+Digital libraries and archives
+Enterprise search
+Music retrieval
+Enterprise architecture modeling
+Eclipse
+Query operators
+Federated databases
+Combinatoric problems
+Magnetic disks
+Magnetic tapes
+Optical / magneto-optical disks
+Children
+Disk arrays
+Combinatorial algorithms
+Generating functions
+Approximation algorithms
+Governmental surveillance
+Corporate surveillance
+Hate speech
+Political speech
+Pornography
+Censoring filters
+Technology and censorship
+Computations in finite fields
+Computations on matrices
+Coding theory
+Computation of transforms
+Scheduling algorithms
+Programming logic
+Social tagging
+Retrieval on mobile devices
+Higher order logic
+Linear logic
+Runtime environments
+Relational parallel and distributed DBMSs
+Software evolution
+John R. Pasta
+Traceability
+Vannevar Bush
+Tightly coupled architectures
+Harry H. Goode
+Software safety
+Economics
+Sociology
+Abstraction
+Surveillance mechanisms
+Investigation techniques
+Evidence collection, storage and analysis
+Network forensics
+System forensics
+Control structures
+Inheritance
+Polymorphism
+Temporal data
+Social networking sites
+Multiparadigm languages
+Assembly languages
+Format and notation
+Multi / mixed media creation
+Image composition
+Scripting languages
+Classes and objects
+Annotation
+TREC
+CS1
+Unicode
+TMS320C
+Auditory feedback
+SELinux
+Pocket PC
+Graphical user interfaces
+Virtual reality
+Command line interfaces
+Block and stream ciphers
+Management and querying of encrypted data
+Information accountability and usage control
+Software security engineering
+Web application security
+Social network security and privacy
+Domain-specific security and privacy architectures
+National Institutes of Health
+Network privacy and anonymity
+Data integration
+Information integration and interoperability
+Online social networks
+iPad
+Incomplete, inconsistent, and uncertain databases
+Theory of database privacy and security
+Logic and databases
+Image representations
+Shape representations
+Appearance and texture representations
+Hierarchical representations
+Interest point and salient region detections
+Image segmentation
+Video segmentation
+Shape inference
+Recognition of genes and regulatory elements
+Molecular evolution
+Molecular sequence analysis
+Structured prediction
+Multi-agent learning
+Models of learning
+Soft intellectual property
+Application specific integrated circuits
+Application specific instruction set processors
+Application specific processors
+Platform-based design
+Design rules
+International Data Corporation (IDC)
+Intel Corporation
+Infusion
+Infineon Technologies
+Google Inc.
+General Electric
+General Dynamics
+Gartner Group
+Geographic visualization
+User interface management systems
+Scenario-based design
+Treemaps
+Myspace
+Permutations and combinations
+Sony Corporation
+Data provenance
+Hardware selection
+Project staffing
+Project management techniques
+Systems analysis and design
+Systems planning
+Computer and information systems training
+Systems development
+Statistical software
+Markov processes
+Distribution functions
+Nonparametric statistics
+Multivariate statistics
+Solvers
+Peer-to-peer retrieval
+Distributed retrieval
+Retrieval efficiency
+Stochastic approximation
+Relevance assessment
+Test collections
+Search index compression
+Search engine indexing
+Rounding techniques
+Facility location and clustering
+Automation
+Employment issues
+Acceptable use policy restrictions
+Age-based restrictions
+Universal access
+Broadband access
+Net neutrality
+Programming interfaces
+Naming and addressing
+Layering
+Social aspects of security and privacy
+Economics of security and privacy
+Interface design prototyping
+Software version control
+Maintaining software
+System administration
+Specification languages
+Error handling and recovery
+Formal software verification
+Empirical software validation
+Online auctions policy
+Presentation of retrieval results
+Public Internet
+Multilingual and cross-lingual retrieval
+Chemical and biochemical retrieval
+Image search
+Mathematics retrieval
+Structured text search
+Trusted Computing Group
+Speech / audio search
+Video search
+SLAC National Accelerator Laboratory
+Trees
+Ubiquitous and mobile computing systems and tools
+Combinatorics on words
+Enumeration
+Graph coloring
+Random graphs
+Program analysis
+Program verification
+Analog and mixed-signal circuit optimization
+Standard Performance Evaluation Corporation
+Clock generation and timing
+Programmable logic elements
+Eclipse Foundation
+Electronic Frontier Foundation
+Parsing
+Computer Press Association
+Computing Community Consortium
+Computer History Museum
+International Computer Music Association
+Computer Science Teachers Association
+TDWI
+Computing Research Association
+CSAB
+Smartphones
+Cladograms
+Mobile phones
+Interactive whiteboards
+Heat maps
+Hyperbolic trees
+Dendrograms
+Graph drawings
+Portable media players
+Mobile devices
+Publishing
+Sound and music computing
+Media arts
+Language translation
+Performing arts
+Fine arts
+Cartography
+American Mathematical Society
+Excel
+CD-ROMs
+Facebook
+Internet Explorer
+Chrome
+Firefox
+Flickr
+Fortran
+Google Earth
+Google
+Graphical user interface languages
+Window managers
+Online handwriting recognition
+API languages
+Programming by example
+State based definitions
+Command and control languages
+Macro languages
+Document metadata
+Version control
+Visual languages
+Graphics recognition and interpretation
+Document scanning
+Document analysis
+Rapid application development
+Pointing devices
+Keyboards
+Natural language interfaces
+Activity centered design
+Software prototyping
+Pacific Northwest National Laboratory
+PARC
+Active learning settings
+Semi-supervised learning settings
+Operational Research Society
+Open Source Initiative
+Open Network Laboratory
+OSGi Alliance
+Active vision
+Matching
+Reconstruction
+Tracking
+Object identification
+Joint Photographic Experts Group
+Object detection
+Molecular structural biology
+Systems biology
+Population genetics
+Computational proteomics
+Imaging
+Biological networks
+Computational transcriptomics
+Sequencing and genotyping technologies
+On-chip resource management
+VLSI design manufacturing considerations
+Full-custom circuits
+Economics of chip design and manufacturing
+Die and wafer stacking
+Standard cell libraries
+On-chip sensors
+VLSI system specification and constraints
+Input / output styles
+Consumer products
+Open source model
+Digital cash
+E-commerce infrastructure
+Electronic data interchange
+Electronic funds transfer
+Online shopping
+Online banking
+Secure online transactions
+Dictionaries
+Computer-assisted instruction
+Data compression
+Multidimensional range search
+Data encryption
+Cyberwarfare
+Edmund Callis Berkeley
+Medical records
+Personal health records
+Genetic information
+Patient privacy
+Elliot Irving Organick
+Remote medicine
+David Hilbert
+Differential calculus
+Integral calculus
+Donald Ervin Knuth
+Differential algebraic equations
+Differential variational inequalities
+Lambda calculus
+Integral equations
+Nonlinear equations
+Charles Tandy
+Electrical-level simulation
+Wifi
+Simulation languages
+UWB
+Network data models
+Self-organization
+Cyril W. Cleverdon
+Data assimilation
+Blaise Pascal
+Space-based architectures
+Spintronics and magnetic technologies
+Martin Fowler
+Interactive simulation
+Simulation environments
+Edvard Scheutz
+NVIDIA Corporation
+Ethernet
+Linux Professional Institute
+eBay Inc.
+DVDs
+Dreamweaver
+DOS
+DB2
+Datalog
+Corel Corporation
+CORBA
+Syntax
+Retargetable compilers
+Nokia Corporation
+Dynamic compilers
+Just-in-time compilers
+Source code generation
+Translator writing systems and compiler generators
+Preprocessors
+ActionScript
+Scene anomaly detection
+National Center for Education Statistics
+SONET
+Transport protocols
+Session protocols
+Protocol testing and verification
+Formal specifications
+Network protocol design
+Routing protocols
+Signaling protocols
+Link-layer protocols
+Access protection
+Abstraction, modeling and modularity
+3-tier architectures
+Organizing principles for web applications
+Software usability
+Mathematical software performance
+Database interoperability
+Document scripting languages
+Parsers
+Very high level languages
+San Diego Supercomputer Center
+Activity recognition and understanding
+Semiconductor Industry Association
+Semantics
+Simulation by animation
+Royal Statistical Society
+Transaction Processing Performance Council
+Mobile agents
+Cooperation and coordination
+Multi-agent systems
+Intelligent agents
+Scene understanding
+Data types and structures
+Sustainability
+Web-based interaction
+SIMD architectures
+Clay Mathematics Institute
+Ames Research Center
+American Statistical Association
+Apache Software Foundation
+American National Standards Institute
+International Software Benchmarking Standards Group Limited
+Argonne National Laboratory
+British Computer Society
+Brazilian Computer Society
+Stochastic games
+Markov decision processes
+Partially-observable Markov decision processes
+Rule learning
+Instance-based learning
+Principal component analysis
+Canonical correlation analysis
+Non-negative matrix factorization
+Factor analysis
+Shape analysis
+Novelty in information retrieval
+Point-based models
+Volumetric models
+Emerging simulation
+Emerging tools and methodologies
+Bio-embedded electronics
+Neural systems
+Biographies
+General literature
+Surveys and overviews
+Reference works
+General conference proceedings
+Action semantics
+Categorical semantics
+Operational semantics
+Axiomatic semantics
+Algebraic semantics
+Denotational semantics
+Type structures
+Invariants
+Display advertising
+Jim Gray
+Taxation
+Codes of ethics
+Adult education
+K-12 education
+Student assessment
+Antitrust and competition
+Transborder data flow
+Seymour Papert
+Pair programming
+Alan Curtis Kay
+Cellular neural networks
+Packet scheduling
+Operational analysis
+Search with partial observations
+Presentation protocols
+Peer-to-peer protocols
+Network policy
+Time synchronization protocols
+Checkpoint / restart
+Cross-layer protocols
+Process synchronization
+Real-time systems software
+Verification
+Operations scheduling
+Performance
+Validation
+Network performance analysis
+Design
+Wireless integrated network sensors
+III-V compounds
+Software testing and debugging
+Cultural characteristics
+Geographic characteristics
+People with disabilities
+Sexual orientation
+Religious orientation
+Race and ethnicity
+Interpolation
+Number-theoretic computations
+Arbitrary-precision arithmetic
+Interval arithmetic
+Numerical differentiation
+Partial differential equations
+Ordinary differential equations
+Software product lines
+Flowcharts
+Object oriented development
+Risk management
+Samba
+Backtracking
+Ruby on Rails
+RISC processors
+Yahoo! Inc.
+Perceptron algorithm
+Zilog, Inc.
+QuickBooks
+Latent variable models
+Mixture models
+Bayesian network models
+Dynamic programming
+Preconditioning
+Maximum a posteriori modeling
+Smalltalk
+Enterprise application integration
+Business process modeling
+Business process monitoring
+Business process management systems
+Cross-organizational business processes
+Enterprise architecture frameworks
+Enterprise architecture management
+Emerging languages and compilers
+Emerging architectures
+Kazimierz Kuratowski
+Kurt Godel
+William C. Norris
+An'an Wang
+Thomas J. Watson
+Thomas Watson, Jr.
+Herman H. Goldstine
+J. Richard Buchi
+David Sarnoff
+Douglas R. Hofstadter
+Use cases
+Software design tradeoffs
+Requirements analysis
+Software design engineering
+Application specific development environments
+Software configuration management and version control systems
+Software libraries and repositories
+Software maintenance tools
+Acceptance testing
+Functional constructs
+Control primitives
+Incomplete data
+Program schemes
+Object oriented constructs
+Query learning
+3D imaging
+Motion capture
+Viewpoints Research Institute
+Wikimedia Foundation, Inc.
+World Intellectual Property Organization
+IBM Almaden Research Center
+Charles Babbage Institute
+Video summarization
+Vision for robotics
+Visual inspection
+Epipolar geometry
+Camera calibration
+Hyperspectral imaging
+Computational photography
+Routing and network design problems
+Anomaly detection
+Hierarchical data models
+Relational database model
+Entity relationship models
+Semi-structured data
+Quantile regression
+Max marginal computation
+DBMS engine architectures
+Record and buffer management
+Bayesian computation
+Blogs
+Texting
+Email
+Web log analysis
+Traffic analysis
+Reputation systems
+Data stream mining
+Computational advertising
+Clustering
+Nearest-neighbor search
+Enterprise applications
+Association rules
+Information systems education
+Model curricula
+Information science education
+Computational science and engineering education
+Computer engineering education
+Information technology education
+Informal education
+Computing literacy
+Transient errors and upsets
+Steve Jobs
+Robert R. Everett
+John Sculley
+John Cocke
+John W. Mauchly
+John Von Neumann
+Marvin Lee Minsky
+Konrad Zuse
+Richard M. Karp
+Maurice V. Wilkes
+Integrated and visual development environments
+Software as a service orchestration systems
+System modeling languages
+Architecture description languages
+Unified Modeling Language (UML)
+Object oriented frameworks
+Integration frameworks
+Orchestration languages
+Spam detection
+Content ranking
+Web indexing
+Page and site ranking
+Web crawling
+Ranking
+Collaborative filtering
+Network domains
+Wireless devices
+Mobile ad hoc networks
+Middle boxes / network appliances
+Scanners
+Touch screens
+Wireless mesh networks
+Wireless personal area networks
+Patent and Trademark Office
+National Academy of Engineering
+Jet Propulsion Laboratory
+Human Factors and Ergonomics Society
+Health informatics
+European Network and Information Security Agency
+Electronic  Visualization Laboratory
+Courant Institute of Mathematical Sciences
+Robotic planning
+System-level fault tolerance
+Heuristic function construction
+Redundancy
+Error detection and error correction
+Failure prediction
+Continuous space search
+Randomized search
+Process variations
+Scheduling
+Hardware description languages and compilation
+Temperature control
+Temperature optimization
+Datapath optimization
+Hardware-software codesign
+Resource binding and sharing
+Waterfall model
+Capability Maturity Model
+V-model
+Spiral model
+Software design techniques
+Agile software development
+Design patterns
+Secure Sockets Layer
+Cross-validation
+Twitter
+SRI International
+SNMP
+Short Message Service
+SPARC
+Telcordia Technologies
+Policy iteration
+Temporal difference learning
+Approximate dynamic programming methods
+Usenet
+Spectral methods
+Feature selection
+Regularization
+Business-IT alignment
+IT architectures
+E-government
+Enterprise ontologies, taxonomies and vocabularies
+Enterprise data management
+Reference models
+Seniors
+Service-oriented architectures
+Event-driven architectures
+Business rules
+Data centers
+PlanetLab
+Enterprise computing infrastructures
+Computing platforms
+Jon Kleinberg
+Gene H. Golub
+Kent Beck
+Information visualization
+Social tagging systems
+Quicken
+Network formation
+Data modeling
+Database query languages (principles)
+Database constraints theory
+Interoperability
+Peer-to-peer architectures
+Computing standards, RFCs and guidelines
+Phase change memory
+Flash memory
+History of hardware
+Historical people
+History of programming languages
+History of software
+History of computing theory
+Accreditation
+Computational thinking
+Routers
+Internet telephony
+Programmable interconnect
+Content match advertising
+Social advertising
+Personalization
+Social recommendation
+Sponsored search advertising
+Site wrapping
+Repeaters
+Deep packet inspection
+Packet classification
+Network design and planning algorithms
+Traffic engineering algorithms
+Network control algorithms
+Network resources allocation
+Hybrid networks
+Network economics
+Network File System (NFS) protocol
+Network adapters
+Thin provisioning
+Storage power management
+Version management
+Deduplication
+Information lifecycle management
+Storage virtualization
+Hierarchical storage management
+Dynamic analysis
+Record and block layout
+Metropolis-Hastings algorithm
+Gibbs sampling
+Probabilistic algorithms
+Variable elimination
+Variational methods
+Loopy belief propagation
+Expectation maximization
+Incentive schemes
+Trust
+Computing Technology Industry Association
+Social network analysis
+Social networks
+Web conferencing
+Chat
+Answer ranking
+The Open Group
+Mobile IP
+WiMAX
+MODIS
+Motorola Solutions, Inc.
+Motorola Mobility, Inc.
+Motorola, Inc.
+Mozilla Foundation
+Mozilla Corporation
+MP3
+MS-DOS
+Ivar Jacobson
+Jakob Nielsen
+Jim Blinn
+Environmental sciences
+Women
+Men
+David Patterson
+Harvey M. Deitel
+IT governance
+Hypertext / hypermedia creation
+Astronomy
+Archaeology
+Radio frequency and wireless circuits
+Latent Dirichlet allocation

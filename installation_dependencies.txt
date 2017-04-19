@@ -37,5 +37,5 @@ ls
 sudo cp geckodriver /usr/local/bin/
 ls -lh /usr/local/bin/
 
-python ss_scholar.py -c 10 --phrase " " >> recorded_script_exp1.txt
+python ase_disagreement.py -c 10 --phrase " " >> recorded_script_exp.txt
 
